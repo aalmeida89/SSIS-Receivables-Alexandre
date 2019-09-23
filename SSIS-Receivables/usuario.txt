@@ -1,0 +1,112 @@
+ReceivablesETLAppUser
+
+CREATE LOGIN ReceivablesETLAppUser WITH PASSWORD = 'RETLAU123!'
+
+CREATE LOGIN ReceivablesETLAppUser WITH PASSWORD = 'RETLAU123!'
+GO
+
+USE Receivables
+GO
+CREATE USER ReceivablesETLAppUser FOR LOGIN ReceivablesETLAppUser
+GO
+GRANT SELECT, INSERT, UPDATE, DELETE TO ReceivablesETLAppUser
+GO
+GRANT ALTER ON dataSource.ABC_PRODUCT TO ReceivablesETLAppUser
+GO
+GRANT ALTER ON dataSource.ABC_SALE_PLAN TO ReceivablesETLAppUser
+GO
+GRANT ALTER ON dataSource.MpeIp0040t1 TO ReceivablesETLAppUser
+GO
+GRANT ALTER ON dataSource.MpeIp0048t1 TO ReceivablesETLAppUser
+GO
+GRANT ALTER ON dataSource.MpeIp0050t1 TO ReceivablesETLAppUser
+GO
+GRANT ALTER ON dataSource.MpeIp0090t1 TO ReceivablesETLAppUser
+GO
+GRANT ALTER ON dataSource.MpeIp0091t1 TO ReceivablesETLAppUser
+GO
+GRANT ALTER ON dataSource.MasterCardChargebackStage TO ReceivablesETLAppUser
+GO
+GRANT ALTER ON dataSource.MasterCardFirstPresentmentStage TO ReceivablesETLAppUser
+GO
+GRANT ALTER ON dataSource.VisaSaleDraftStage TO ReceivablesETLAppUser
+GO
+
+
+USE Buy4_bo
+GO
+CREATE USER ReceivablesETLAppUser FOR LOGIN ReceivablesETLAppUser
+GO
+GRANT SELECT ON ABC_PRODUCT TO ReceivablesETLAppUser
+GO
+GRANT SELECT ON ABC_SALE_PLAN TO ReceivablesETLAppUser
+GO
+GRANT SELECT ON ATX_CONFIRMED_TRANSACTION TO ReceivablesETLAppUser
+GO
+GRANT SELECT ON InterchangeMovement TO ReceivablesETLAppUser
+GO
+
+USE Buy4_clearing
+GO
+CREATE USER ReceivablesETLAppUser FOR LOGIN ReceivablesETLAppUser
+GO
+GRANT SELECT ON dbo.ClearingFile TO ReceivablesETLAppUser
+GO
+GRANT SELECT ON dbo.MasterCardChargeback TO ReceivablesETLAppUser
+GO
+GRANT SELECT ON dbo.MasterCardFeeCollectionOther TO ReceivablesETLAppUser
+GO
+GRANT SELECT ON dbo.MasterCardFileHeader TO ReceivablesETLAppUser
+GO
+GRANT SELECT ON dbo.MasterCardFileReject TO ReceivablesETLAppUser
+GO
+GRANT SELECT ON dbo.MasterCardFirstPresentment TO ReceivablesETLAppUser
+GO
+GRANT SELECT ON dbo.MasterCardMessageException TO ReceivablesETLAppUser
+GO
+GRANT SELECT ON dbo.MasterCardSmsExceptionRecord TO ReceivablesETLAppUser
+GO
+GRANT SELECT ON dbo.MasterCardSmsReportFinancialRecord TO ReceivablesETLAppUser
+GO
+GRANT SELECT ON dbo.VisaDisbursementTransaction TO ReceivablesETLAppUser
+GO
+GRANT SELECT ON dbo.VisaDisputeFinancialStatusAdvice TO ReceivablesETLAppUser
+GO
+GRANT SELECT ON dbo.VisaDisputeFinancialStatusAdviceTcr1 TO ReceivablesETLAppUser
+GO
+GRANT SELECT ON dbo.VisaFeeCollection TO ReceivablesETLAppUser
+GO
+GRANT SELECT ON dbo.VisaFeeCollectionTcr2 TO ReceivablesETLAppUser
+GO
+GRANT SELECT ON dbo.VisaHeaderIncoming TO ReceivablesETLAppUser
+GO
+GRANT SELECT ON dbo.VisaSaleDraft TO ReceivablesETLAppUser
+GO
+GRANT SELECT ON dbo.VisaSaleDraftTcr2 TO ReceivablesETLAppUser
+GO
+GRANT SELECT ON dbo.VisaSaleDraftTcr4ClaimsResolution TO ReceivablesETLAppUser
+GO
+
+USE ClearingAmex
+GO
+CREATE USER ReceivablesETLAppUser FOR LOGIN ReceivablesETLAppUser
+GO
+GRANT SELECT ON dbo.DafFirstAndFinalChargebacksMessage TO ReceivablesETLAppUser
+GO
+GRANT SELECT ON dbo.DafFirstAndSecondPresentmentMessage TO ReceivablesETLAppUser
+GO
+
+USE SchemeRepository
+GO
+CREATE USER ReceivablesETLAppUser FOR LOGIN ReceivablesETLAppUser
+GO
+GRANT SELECT ON mastercard.MpeIp0040t1 TO ReceivablesETLAppUser
+GO
+GRANT SELECT ON mastercard.MpeIp0048t1 TO ReceivablesETLAppUser
+GO
+GRANT SELECT ON mastercard.MpeIp0050t1 TO ReceivablesETLAppUser
+GO
+GRANT SELECT ON mastercard.MpeIp0090t1 TO ReceivablesETLAppUser
+GO
+GRANT SELECT ON mastercard.MpeIp0091t1 TO ReceivablesETLAppUser
+GO

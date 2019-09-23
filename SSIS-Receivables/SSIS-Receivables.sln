@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "SSIS-Receivables", "SSIS-Receivables\SSIS-Receivables.dtproj", "{E83078B5-F8B4-45A8-9D0F-AD51D4A1BB88}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E83078B5-F8B4-45A8-9D0F-AD51D4A1BB88}.Development|Default.ActiveCfg = Development
+		{E83078B5-F8B4-45A8-9D0F-AD51D4A1BB88}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5AEE5E8-E10E-44E5-A3AB-4022B5C4C109}
+	EndGlobalSection
+EndGlobal
