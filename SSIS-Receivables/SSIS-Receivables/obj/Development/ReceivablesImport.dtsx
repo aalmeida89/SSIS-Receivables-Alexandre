@@ -11,8 +11,8 @@
   DTS:LocaleID="1046"
   DTS:ObjectName="ReceivablesImport"
   DTS:PackageType="5"
-  DTS:VersionBuild="334"
-  DTS:VersionGUID="{09C44A17-3FC3-4147-B3F8-4149EAF415A8}">
+  DTS:VersionBuild="346"
+  DTS:VersionGUID="{4B8B1AF2-2D77-4DE5-BA83-B5CE6AFC031D}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
@@ -30,7 +30,7 @@
           <DTS:Password
             DTS:Name="PASSWORD"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAksTWgp+Es0ezRqm/CgbYdAAAAAAIAAAARABUAFMAAAADZgAAwAAAABAAAADkbK5Pr8Abl+vSGY6RGmjSAAAAAASAAACgAAAAEAAAABXFL0cwtsZ56gfPTNqgvJ4YAAAA1cUFifl3Z7F5DG4LBrmSoimNXb8Xzzi3FAAAACOXngllp5tx50sd3D3z2teO16MX</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAksTWgp+Es0ezRqm/CgbYdAAAAAAIAAAARABUAFMAAAADZgAAwAAAABAAAADK3H6RuaD+qSwqZpPaumtjAAAAAASAAACgAAAAEAAAAGr+1ukDp1/TC5sHsW7K/JwYAAAAtn1CR4PVcTCt3N6zUdAsbcP2C7SkD26WFAAAAKwA9eHVTFviH8ilybclk89JxrNy</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -47,7 +47,7 @@
           <DTS:Password
             DTS:Name="PASSWORD"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAksTWgp+Es0ezRqm/CgbYdAAAAAAIAAAARABUAFMAAAADZgAAwAAAABAAAAAmV/6nLvH78U4xc0SgVLeCAAAAAASAAACgAAAAEAAAAEs1gyWlqTu0iiTOwWHdpp8YAAAAbO9aDaMVMQQNwvwrnG1nKAn/pM4qmc5IFAAAAIiGhZpHzTqg3IAISGkRBeaI2D4h</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAksTWgp+Es0ezRqm/CgbYdAAAAAAIAAAARABUAFMAAAADZgAAwAAAABAAAACqJryx6CTUWe7cubJVkIlFAAAAAASAAACgAAAAEAAAAOv7WUOkFzYwXceyItZ0RFwYAAAA1Pt0yzECkS8kGUQli2HGaF9BTrrEV/L0FAAAANBvNQh9BDXxV5QPXm/sTWEE9IY7</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -64,7 +64,7 @@
           <DTS:Password
             DTS:Name="PASSWORD"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAksTWgp+Es0ezRqm/CgbYdAAAAAAIAAAARABUAFMAAAADZgAAwAAAABAAAAAsgM02FeLorSSMbtaYE378AAAAAASAAACgAAAAEAAAAPFQe+4yW7b7NEDt0l/CHLQYAAAAKEedM7nToq7SliX7sIojsobVP27wKoiaFAAAAPG/DRPshVNBDI0ao4Ye0L0TWlVM</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAksTWgp+Es0ezRqm/CgbYdAAAAAAIAAAARABUAFMAAAADZgAAwAAAABAAAADQuvd8+v1ee3RIM66HuU7CAAAAAASAAACgAAAAEAAAAGGFZAF0t/e6eD4tKp33tiEYAAAAMkOb5lVqe/dEknayUTRW221raL2VyerEFAAAAHt+xOZmo+7INARh2dr1O0TuGqu1</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -81,7 +81,7 @@
           <DTS:Password
             DTS:Name="PASSWORD"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAksTWgp+Es0ezRqm/CgbYdAAAAAAIAAAARABUAFMAAAADZgAAwAAAABAAAADal3OTZrJSyDKS8I/ieIUQAAAAAASAAACgAAAAEAAAAJO0l0Bv163uPrRMETqRSi4YAAAAZe1Z3H2/MZhibXVi+UK8ldgAVK6+kU12FAAAAAvmBMuWZ0odeJLHDeSyHmyhWPu7</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAksTWgp+Es0ezRqm/CgbYdAAAAAAIAAAARABUAFMAAAADZgAAwAAAABAAAAATgjvGZRSTRIggpQm2u9O5AAAAAASAAACgAAAAEAAAAJVo5ESmN2nxF6PlmKtjjv4YAAAAj7n9Z2FB2XnOrogi3ulqMVKksJfx56LQFAAAAKTX+hdAaxSQ816NerxWRh/QiDEI</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -98,7 +98,7 @@
           <DTS:Password
             DTS:Name="PASSWORD"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAksTWgp+Es0ezRqm/CgbYdAAAAAAIAAAARABUAFMAAAADZgAAwAAAABAAAAC8z/QDAoN4Qr0C6yhcBTozAAAAAASAAACgAAAAEAAAAMisKdMx6gQyYkffa1EnMQkYAAAATfzUFkUWS3AHQZJsbCbNQUZ8gJUR6/IlFAAAANY94TMqrRfXqBe9fbWL1F6Dt4iw</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAksTWgp+Es0ezRqm/CgbYdAAAAAAIAAAARABUAFMAAAADZgAAwAAAABAAAADpGL238VHyqCNa39e2kqBMAAAAAASAAACgAAAAEAAAAFDCIwliYbDtf/I6M4CthNAYAAAA7mKqibjnE7VQ2v4Yjz87S1wKOMesiSEsFAAAAALoATV4g9AY7285y0s2nnQ288p6</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -115,7 +115,7 @@
           <DTS:Password
             DTS:Name="PASSWORD"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAksTWgp+Es0ezRqm/CgbYdAAAAAAIAAAARABUAFMAAAADZgAAwAAAABAAAAB4G4YbQgeAZcWdszVbmWpcAAAAAASAAACgAAAAEAAAAOygkBbRT7Etj3k9tJXoIzQYAAAAIVEQhqgQdBPIaV+65cK/qYUUWQUj8n5qFAAAAMg+YaGzwCpurQ8IbKinndzatRY1</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAksTWgp+Es0ezRqm/CgbYdAAAAAAIAAAARABUAFMAAAADZgAAwAAAABAAAAA+YmSRjsF3JcHhLIFMt8C6AAAAAASAAACgAAAAEAAAAMRLJ6YGYg2nCcKeJWOW9NAYAAAAg8CTTs8OSFEAP9BTXyd3Sna7bneaScwbFAAAAJb0LpDHPFILIiQ2TVzKnU4PhQni</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -136,6 +136,15 @@
       DTS:IncludeInDebugDump="6789"
       DTS:Namespace="User"
       DTS:ObjectName="VAR_ATX_CONFIRMED_TRANSACTION_LastID">
+      <DTS:VariableValue
+        DTS:DataType="20">0</DTS:VariableValue>
+    </DTS:Variable>
+    <DTS:Variable
+      DTS:CreationName=""
+      DTS:DTSID="{2CA80931-110B-42BC-8140-56AC158BF1DF}"
+      DTS:IncludeInDebugDump="6789"
+      DTS:Namespace="User"
+      DTS:ObjectName="VAR_AuthorizationMessageLastID">
       <DTS:VariableValue
         DTS:DataType="20">0</DTS:VariableValue>
     </DTS:Variable>
@@ -1502,7 +1511,7 @@ FROM ##IdsConfirmedReceivables</property>
       DTS:ExecutableType="Microsoft.ExecuteSQLTask"
       DTS:LocaleID="-1"
       DTS:ObjectName="GET MasterCardChargebackDate"
-      DTS:ThreadHint="2">
+      DTS:ThreadHint="25">
       <DTS:Variables />
       <DTS:ObjectData>
         <SQLTask:SqlTaskData
@@ -1523,7 +1532,7 @@ FROM ##IdsConfirmedReceivables</property>
       DTS:ExecutableType="Microsoft.ExecuteSQLTask"
       DTS:LocaleID="-1"
       DTS:ObjectName="GET MasterCardFirstPresentmentDate"
-      DTS:ThreadHint="1">
+      DTS:ThreadHint="22">
       <DTS:Variables />
       <DTS:ObjectData>
         <SQLTask:SqlTaskData
@@ -1544,7 +1553,7 @@ FROM ##IdsConfirmedReceivables</property>
       DTS:ExecutableType="Microsoft.ExecuteSQLTask"
       DTS:LocaleID="-1"
       DTS:ObjectName="GET VisalSaleDraftLastDate"
-      DTS:ThreadHint="0">
+      DTS:ThreadHint="24">
       <DTS:Variables />
       <DTS:ObjectData>
         <SQLTask:SqlTaskData
@@ -4762,7 +4771,8 @@ RRN,
 IS_SMS,
 ID_TRANSACTION_STATUS,
 ORIGINAL_AMOUNT,
-CLEARING_DATE
+CLEARING_DATE,
+EXTERNAL_AUTHORIZATION_ID
 FROM
 dbo.ATX_CONFIRMED_TRANSACTION
 WHERE
@@ -4953,6 +4963,16 @@ ID_CONFIRMED_TRANSACTION &gt; ?</property>
                           lineageId="Package\Sequence Container\Extraction From Buy4_bo_ATX_CONFIRMED_TRANSACTION\Get ATX_CONFIRMED_TRANSACTION.Outputs[OLE DB Source Output].Columns[CLEARING_DATE]"
                           name="CLEARING_DATE"
                           truncationRowDisposition="FailComponent" />
+                        <outputColumn
+                          refId="Package\Sequence Container\Extraction From Buy4_bo_ATX_CONFIRMED_TRANSACTION\Get ATX_CONFIRMED_TRANSACTION.Outputs[OLE DB Source Output].Columns[EXTERNAL_AUTHORIZATION_ID]"
+                          dataType="numeric"
+                          errorOrTruncationOperation="Conversion"
+                          errorRowDisposition="FailComponent"
+                          externalMetadataColumnId="Package\Sequence Container\Extraction From Buy4_bo_ATX_CONFIRMED_TRANSACTION\Get ATX_CONFIRMED_TRANSACTION.Outputs[OLE DB Source Output].ExternalColumns[EXTERNAL_AUTHORIZATION_ID]"
+                          lineageId="Package\Sequence Container\Extraction From Buy4_bo_ATX_CONFIRMED_TRANSACTION\Get ATX_CONFIRMED_TRANSACTION.Outputs[OLE DB Source Output].Columns[EXTERNAL_AUTHORIZATION_ID]"
+                          name="EXTERNAL_AUTHORIZATION_ID"
+                          precision="12"
+                          truncationRowDisposition="FailComponent" />
                       </outputColumns>
                       <externalMetadataColumns
                         isUsed="True">
@@ -5032,6 +5052,11 @@ ID_CONFIRMED_TRANSACTION &gt; ?</property>
                           refId="Package\Sequence Container\Extraction From Buy4_bo_ATX_CONFIRMED_TRANSACTION\Get ATX_CONFIRMED_TRANSACTION.Outputs[OLE DB Source Output].ExternalColumns[CLEARING_DATE]"
                           dataType="dbDate"
                           name="CLEARING_DATE" />
+                        <externalMetadataColumn
+                          refId="Package\Sequence Container\Extraction From Buy4_bo_ATX_CONFIRMED_TRANSACTION\Get ATX_CONFIRMED_TRANSACTION.Outputs[OLE DB Source Output].ExternalColumns[EXTERNAL_AUTHORIZATION_ID]"
+                          dataType="numeric"
+                          name="EXTERNAL_AUTHORIZATION_ID"
+                          precision="12" />
                       </externalMetadataColumns>
                     </output>
                     <output
@@ -5130,6 +5155,12 @@ ID_CONFIRMED_TRANSACTION &gt; ?</property>
                           dataType="dbDate"
                           lineageId="Package\Sequence Container\Extraction From Buy4_bo_ATX_CONFIRMED_TRANSACTION\Get ATX_CONFIRMED_TRANSACTION.Outputs[OLE DB Source Error Output].Columns[CLEARING_DATE]"
                           name="CLEARING_DATE" />
+                        <outputColumn
+                          refId="Package\Sequence Container\Extraction From Buy4_bo_ATX_CONFIRMED_TRANSACTION\Get ATX_CONFIRMED_TRANSACTION.Outputs[OLE DB Source Error Output].Columns[EXTERNAL_AUTHORIZATION_ID]"
+                          dataType="numeric"
+                          lineageId="Package\Sequence Container\Extraction From Buy4_bo_ATX_CONFIRMED_TRANSACTION\Get ATX_CONFIRMED_TRANSACTION.Outputs[OLE DB Source Error Output].Columns[EXTERNAL_AUTHORIZATION_ID]"
+                          name="EXTERNAL_AUTHORIZATION_ID"
+                          precision="12" />
                         <outputColumn
                           refId="Package\Sequence Container\Extraction From Buy4_bo_ATX_CONFIRMED_TRANSACTION\Get ATX_CONFIRMED_TRANSACTION.Outputs[OLE DB Source Error Output].Columns[ErrorCode]"
                           dataType="i4"
@@ -5325,6 +5356,13 @@ ID_CONFIRMED_TRANSACTION &gt; ?</property>
                           cachedName="CLEARING_DATE"
                           externalMetadataColumnId="Package\Sequence Container\Extraction From Buy4_bo_ATX_CONFIRMED_TRANSACTION\INSERT Target InterchangeMovement.Inputs[OLE DB Destination Input].ExternalColumns[CLEARING_DATE]"
                           lineageId="Package\Sequence Container\Extraction From Buy4_bo_ATX_CONFIRMED_TRANSACTION\Get ATX_CONFIRMED_TRANSACTION.Outputs[OLE DB Source Output].Columns[CLEARING_DATE]" />
+                        <inputColumn
+                          refId="Package\Sequence Container\Extraction From Buy4_bo_ATX_CONFIRMED_TRANSACTION\INSERT Target InterchangeMovement.Inputs[OLE DB Destination Input].Columns[EXTERNAL_AUTHORIZATION_ID]"
+                          cachedDataType="numeric"
+                          cachedName="EXTERNAL_AUTHORIZATION_ID"
+                          cachedPrecision="12"
+                          externalMetadataColumnId="Package\Sequence Container\Extraction From Buy4_bo_ATX_CONFIRMED_TRANSACTION\INSERT Target InterchangeMovement.Inputs[OLE DB Destination Input].ExternalColumns[EXTERNAL_AUTHORIZATION_ID]"
+                          lineageId="Package\Sequence Container\Extraction From Buy4_bo_ATX_CONFIRMED_TRANSACTION\Get ATX_CONFIRMED_TRANSACTION.Outputs[OLE DB Source Output].Columns[EXTERNAL_AUTHORIZATION_ID]" />
                       </inputColumns>
                       <externalMetadataColumns
                         isUsed="True">
@@ -5404,6 +5442,11 @@ ID_CONFIRMED_TRANSACTION &gt; ?</property>
                           refId="Package\Sequence Container\Extraction From Buy4_bo_ATX_CONFIRMED_TRANSACTION\INSERT Target InterchangeMovement.Inputs[OLE DB Destination Input].ExternalColumns[CLEARING_DATE]"
                           dataType="dbDate"
                           name="CLEARING_DATE" />
+                        <externalMetadataColumn
+                          refId="Package\Sequence Container\Extraction From Buy4_bo_ATX_CONFIRMED_TRANSACTION\INSERT Target InterchangeMovement.Inputs[OLE DB Destination Input].ExternalColumns[EXTERNAL_AUTHORIZATION_ID]"
+                          dataType="numeric"
+                          name="EXTERNAL_AUTHORIZATION_ID"
+                          precision="12" />
                       </externalMetadataColumns>
                     </input>
                   </inputs>
@@ -5439,6 +5482,288 @@ ID_CONFIRMED_TRANSACTION &gt; ?</property>
                   endId="Package\Sequence Container\Extraction From Buy4_bo_ATX_CONFIRMED_TRANSACTION\INSERT Target InterchangeMovement.Inputs[OLE DB Destination Input]"
                   name="OLE DB Source Output"
                   startId="Package\Sequence Container\Extraction From Buy4_bo_ATX_CONFIRMED_TRANSACTION\Get ATX_CONFIRMED_TRANSACTION.Outputs[OLE DB Source Output]" />
+              </paths>
+            </pipeline>
+          </DTS:ObjectData>
+        </DTS:Executable>
+        <DTS:Executable
+          DTS:refId="Package\Sequence Container\Extraction From Buy4_bo_clr_AuthorizationMessage"
+          DTS:CreationName="Microsoft.Pipeline"
+          DTS:Description="Data Flow Task"
+          DTS:DTSID="{43079475-7350-425f-9dcf-544fcf14783d}"
+          DTS:ExecutableType="Microsoft.Pipeline"
+          DTS:LocaleID="-1"
+          DTS:ObjectName="Extraction From Buy4_bo_clr_AuthorizationMessage"
+          DTS:TaskContact="Performs high-performance data extraction, transformation and loading;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1">
+          <DTS:Variables />
+          <DTS:ObjectData>
+            <pipeline
+              version="1">
+              <components>
+                <component
+                  refId="Package\Sequence Container\Extraction From Buy4_bo_clr_AuthorizationMessage\GET clr_AuthorizationMessage"
+                  componentClassID="Microsoft.OLEDBSource"
+                  contactInfo="OLE DB Source;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;7"
+                  description="OLE DB Source"
+                  name="GET clr_AuthorizationMessage"
+                  usesDispositions="true"
+                  version="7">
+                  <properties>
+                    <property
+                      dataType="System.Int32"
+                      description="The number of seconds before a command times out.  A value of 0 indicates an infinite time-out."
+                      name="CommandTimeout">0</property>
+                    <property
+                      dataType="System.String"
+                      description="Specifies the name of the database object used to open a rowset."
+                      name="OpenRowset"></property>
+                    <property
+                      dataType="System.String"
+                      description="Specifies the variable that contains the name of the database object used to open a rowset."
+                      name="OpenRowsetVariable"></property>
+                    <property
+                      dataType="System.String"
+                      description="The SQL command to be executed."
+                      name="SqlCommand"
+                      UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor, Microsoft.DataTransformationServices.Controls, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91">SELECT
+	AuthorizationId
+	, PaymentSchemeBusinessModelId
+FROM clr.AuthorizationMessage
+WHERE
+	AuthorizationId &gt; ?</property>
+                    <property
+                      dataType="System.String"
+                      description="The variable that contains the SQL command to be executed."
+                      name="SqlCommandVariable"></property>
+                    <property
+                      dataType="System.Int32"
+                      description="Specifies the column code page to use when code page information is unavailable from the data source."
+                      name="DefaultCodePage">1252</property>
+                    <property
+                      dataType="System.Boolean"
+                      description="Forces the use of the DefaultCodePage property value when describing character data."
+                      name="AlwaysUseDefaultCodePage">false</property>
+                    <property
+                      dataType="System.Int32"
+                      description="Specifies the mode used to access the database."
+                      name="AccessMode"
+                      typeConverter="AccessMode">2</property>
+                    <property
+                      dataType="System.String"
+                      description="The mappings between the parameters in the SQL command and variables."
+                      name="ParameterMapping">"Parameter0:Input",{2CA80931-110B-42BC-8140-56AC158BF1DF};</property>
+                  </properties>
+                  <connections>
+                    <connection
+                      refId="Package\Sequence Container\Extraction From Buy4_bo_clr_AuthorizationMessage\GET clr_AuthorizationMessage.Connections[OleDbConnection]"
+                      connectionManagerID="Package.ConnectionManagers[CONN_Buy4_bo]"
+                      connectionManagerRefId="Package.ConnectionManagers[CONN_Buy4_bo]"
+                      description="The OLE DB runtime connection used to access the database."
+                      name="OleDbConnection" />
+                  </connections>
+                  <outputs>
+                    <output
+                      refId="Package\Sequence Container\Extraction From Buy4_bo_clr_AuthorizationMessage\GET clr_AuthorizationMessage.Outputs[OLE DB Source Output]"
+                      name="OLE DB Source Output">
+                      <outputColumns>
+                        <outputColumn
+                          refId="Package\Sequence Container\Extraction From Buy4_bo_clr_AuthorizationMessage\GET clr_AuthorizationMessage.Outputs[OLE DB Source Output].Columns[AuthorizationId]"
+                          dataType="numeric"
+                          errorOrTruncationOperation="Conversion"
+                          errorRowDisposition="FailComponent"
+                          externalMetadataColumnId="Package\Sequence Container\Extraction From Buy4_bo_clr_AuthorizationMessage\GET clr_AuthorizationMessage.Outputs[OLE DB Source Output].ExternalColumns[AuthorizationId]"
+                          lineageId="Package\Sequence Container\Extraction From Buy4_bo_clr_AuthorizationMessage\GET clr_AuthorizationMessage.Outputs[OLE DB Source Output].Columns[AuthorizationId]"
+                          name="AuthorizationId"
+                          precision="12"
+                          truncationRowDisposition="FailComponent" />
+                        <outputColumn
+                          refId="Package\Sequence Container\Extraction From Buy4_bo_clr_AuthorizationMessage\GET clr_AuthorizationMessage.Outputs[OLE DB Source Output].Columns[PaymentSchemeBusinessModelId]"
+                          dataType="i2"
+                          errorOrTruncationOperation="Conversion"
+                          errorRowDisposition="FailComponent"
+                          externalMetadataColumnId="Package\Sequence Container\Extraction From Buy4_bo_clr_AuthorizationMessage\GET clr_AuthorizationMessage.Outputs[OLE DB Source Output].ExternalColumns[PaymentSchemeBusinessModelId]"
+                          lineageId="Package\Sequence Container\Extraction From Buy4_bo_clr_AuthorizationMessage\GET clr_AuthorizationMessage.Outputs[OLE DB Source Output].Columns[PaymentSchemeBusinessModelId]"
+                          name="PaymentSchemeBusinessModelId"
+                          truncationRowDisposition="FailComponent" />
+                      </outputColumns>
+                      <externalMetadataColumns
+                        isUsed="True">
+                        <externalMetadataColumn
+                          refId="Package\Sequence Container\Extraction From Buy4_bo_clr_AuthorizationMessage\GET clr_AuthorizationMessage.Outputs[OLE DB Source Output].ExternalColumns[AuthorizationId]"
+                          dataType="numeric"
+                          name="AuthorizationId"
+                          precision="12" />
+                        <externalMetadataColumn
+                          refId="Package\Sequence Container\Extraction From Buy4_bo_clr_AuthorizationMessage\GET clr_AuthorizationMessage.Outputs[OLE DB Source Output].ExternalColumns[PaymentSchemeBusinessModelId]"
+                          dataType="i2"
+                          name="PaymentSchemeBusinessModelId" />
+                      </externalMetadataColumns>
+                    </output>
+                    <output
+                      refId="Package\Sequence Container\Extraction From Buy4_bo_clr_AuthorizationMessage\GET clr_AuthorizationMessage.Outputs[OLE DB Source Error Output]"
+                      isErrorOut="true"
+                      name="OLE DB Source Error Output">
+                      <outputColumns>
+                        <outputColumn
+                          refId="Package\Sequence Container\Extraction From Buy4_bo_clr_AuthorizationMessage\GET clr_AuthorizationMessage.Outputs[OLE DB Source Error Output].Columns[AuthorizationId]"
+                          dataType="numeric"
+                          lineageId="Package\Sequence Container\Extraction From Buy4_bo_clr_AuthorizationMessage\GET clr_AuthorizationMessage.Outputs[OLE DB Source Error Output].Columns[AuthorizationId]"
+                          name="AuthorizationId"
+                          precision="12" />
+                        <outputColumn
+                          refId="Package\Sequence Container\Extraction From Buy4_bo_clr_AuthorizationMessage\GET clr_AuthorizationMessage.Outputs[OLE DB Source Error Output].Columns[PaymentSchemeBusinessModelId]"
+                          dataType="i2"
+                          lineageId="Package\Sequence Container\Extraction From Buy4_bo_clr_AuthorizationMessage\GET clr_AuthorizationMessage.Outputs[OLE DB Source Error Output].Columns[PaymentSchemeBusinessModelId]"
+                          name="PaymentSchemeBusinessModelId" />
+                        <outputColumn
+                          refId="Package\Sequence Container\Extraction From Buy4_bo_clr_AuthorizationMessage\GET clr_AuthorizationMessage.Outputs[OLE DB Source Error Output].Columns[ErrorCode]"
+                          dataType="i4"
+                          lineageId="Package\Sequence Container\Extraction From Buy4_bo_clr_AuthorizationMessage\GET clr_AuthorizationMessage.Outputs[OLE DB Source Error Output].Columns[ErrorCode]"
+                          name="ErrorCode"
+                          specialFlags="1" />
+                        <outputColumn
+                          refId="Package\Sequence Container\Extraction From Buy4_bo_clr_AuthorizationMessage\GET clr_AuthorizationMessage.Outputs[OLE DB Source Error Output].Columns[ErrorColumn]"
+                          dataType="i4"
+                          lineageId="Package\Sequence Container\Extraction From Buy4_bo_clr_AuthorizationMessage\GET clr_AuthorizationMessage.Outputs[OLE DB Source Error Output].Columns[ErrorColumn]"
+                          name="ErrorColumn"
+                          specialFlags="2" />
+                      </outputColumns>
+                      <externalMetadataColumns />
+                    </output>
+                  </outputs>
+                </component>
+                <component
+                  refId="Package\Sequence Container\Extraction From Buy4_bo_clr_AuthorizationMessage\INSERT clr_AuthorizationMessage"
+                  componentClassID="Microsoft.OLEDBDestination"
+                  contactInfo="OLE DB Destination;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;4"
+                  description="OLE DB Destination"
+                  name="INSERT clr_AuthorizationMessage"
+                  usesDispositions="true"
+                  version="4">
+                  <properties>
+                    <property
+                      dataType="System.Int32"
+                      description="The number of seconds before a command times out.  A value of 0 indicates an infinite time-out."
+                      name="CommandTimeout">0</property>
+                    <property
+                      dataType="System.String"
+                      description="Specifies the name of the database object used to open a rowset."
+                      name="OpenRowset">[dataSource].[AuthorizationMessage]</property>
+                    <property
+                      dataType="System.String"
+                      description="Specifies the variable that contains the name of the database object used to open a rowset."
+                      name="OpenRowsetVariable"></property>
+                    <property
+                      dataType="System.String"
+                      description="The SQL command to be executed."
+                      name="SqlCommand"
+                      UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor, Microsoft.DataTransformationServices.Controls, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91"></property>
+                    <property
+                      dataType="System.Int32"
+                      description="Specifies the column code page to use when code page information is unavailable from the data source."
+                      name="DefaultCodePage">1252</property>
+                    <property
+                      dataType="System.Boolean"
+                      description="Forces the use of the DefaultCodePage property value when describing character data."
+                      name="AlwaysUseDefaultCodePage">false</property>
+                    <property
+                      dataType="System.Int32"
+                      description="Specifies the mode used to access the database."
+                      name="AccessMode"
+                      typeConverter="AccessMode">3</property>
+                    <property
+                      dataType="System.Boolean"
+                      description="Indicates whether the values supplied for identity columns will be copied to the destination. If false, values for identity columns will be auto-generated at the destination. Applies only if fast load is turned on."
+                      name="FastLoadKeepIdentity">false</property>
+                    <property
+                      dataType="System.Boolean"
+                      description="Indicates whether the columns containing null will have null inserted in the destination. If false, columns containing null will have their default values inserted at the destination. Applies only if fast load is turned on."
+                      name="FastLoadKeepNulls">false</property>
+                    <property
+                      dataType="System.String"
+                      description="Specifies options to be used with fast load.  Applies only if fast load is turned on."
+                      name="FastLoadOptions">TABLOCK,CHECK_CONSTRAINTS</property>
+                    <property
+                      dataType="System.Int32"
+                      description="Specifies when commits are issued during data insertion.  A value of 0 specifies that one commit will be issued at the end of data insertion.  Applies only if fast load is turned on."
+                      name="FastLoadMaxInsertCommitSize">2147483647</property>
+                  </properties>
+                  <connections>
+                    <connection
+                      refId="Package\Sequence Container\Extraction From Buy4_bo_clr_AuthorizationMessage\INSERT clr_AuthorizationMessage.Connections[OleDbConnection]"
+                      connectionManagerID="Package.ConnectionManagers[CONN_Receivables]"
+                      connectionManagerRefId="Package.ConnectionManagers[CONN_Receivables]"
+                      description="The OLE DB runtime connection used to access the database."
+                      name="OleDbConnection" />
+                  </connections>
+                  <inputs>
+                    <input
+                      refId="Package\Sequence Container\Extraction From Buy4_bo_clr_AuthorizationMessage\INSERT clr_AuthorizationMessage.Inputs[OLE DB Destination Input]"
+                      errorOrTruncationOperation="Insert"
+                      errorRowDisposition="FailComponent"
+                      hasSideEffects="true"
+                      name="OLE DB Destination Input">
+                      <inputColumns>
+                        <inputColumn
+                          refId="Package\Sequence Container\Extraction From Buy4_bo_clr_AuthorizationMessage\INSERT clr_AuthorizationMessage.Inputs[OLE DB Destination Input].Columns[AuthorizationId]"
+                          cachedDataType="numeric"
+                          cachedName="AuthorizationId"
+                          cachedPrecision="12"
+                          externalMetadataColumnId="Package\Sequence Container\Extraction From Buy4_bo_clr_AuthorizationMessage\INSERT clr_AuthorizationMessage.Inputs[OLE DB Destination Input].ExternalColumns[AuthorizationId]"
+                          lineageId="Package\Sequence Container\Extraction From Buy4_bo_clr_AuthorizationMessage\GET clr_AuthorizationMessage.Outputs[OLE DB Source Output].Columns[AuthorizationId]" />
+                        <inputColumn
+                          refId="Package\Sequence Container\Extraction From Buy4_bo_clr_AuthorizationMessage\INSERT clr_AuthorizationMessage.Inputs[OLE DB Destination Input].Columns[PaymentSchemeBusinessModelId]"
+                          cachedDataType="i2"
+                          cachedName="PaymentSchemeBusinessModelId"
+                          externalMetadataColumnId="Package\Sequence Container\Extraction From Buy4_bo_clr_AuthorizationMessage\INSERT clr_AuthorizationMessage.Inputs[OLE DB Destination Input].ExternalColumns[PaymentSchemeBusinessModelId]"
+                          lineageId="Package\Sequence Container\Extraction From Buy4_bo_clr_AuthorizationMessage\GET clr_AuthorizationMessage.Outputs[OLE DB Source Output].Columns[PaymentSchemeBusinessModelId]" />
+                      </inputColumns>
+                      <externalMetadataColumns
+                        isUsed="True">
+                        <externalMetadataColumn
+                          refId="Package\Sequence Container\Extraction From Buy4_bo_clr_AuthorizationMessage\INSERT clr_AuthorizationMessage.Inputs[OLE DB Destination Input].ExternalColumns[AuthorizationId]"
+                          dataType="numeric"
+                          name="AuthorizationId"
+                          precision="12" />
+                        <externalMetadataColumn
+                          refId="Package\Sequence Container\Extraction From Buy4_bo_clr_AuthorizationMessage\INSERT clr_AuthorizationMessage.Inputs[OLE DB Destination Input].ExternalColumns[PaymentSchemeBusinessModelId]"
+                          dataType="i2"
+                          name="PaymentSchemeBusinessModelId" />
+                      </externalMetadataColumns>
+                    </input>
+                  </inputs>
+                  <outputs>
+                    <output
+                      refId="Package\Sequence Container\Extraction From Buy4_bo_clr_AuthorizationMessage\INSERT clr_AuthorizationMessage.Outputs[OLE DB Destination Error Output]"
+                      exclusionGroup="1"
+                      isErrorOut="true"
+                      name="OLE DB Destination Error Output"
+                      synchronousInputId="Package\Sequence Container\Extraction From Buy4_bo_clr_AuthorizationMessage\INSERT clr_AuthorizationMessage.Inputs[OLE DB Destination Input]">
+                      <outputColumns>
+                        <outputColumn
+                          refId="Package\Sequence Container\Extraction From Buy4_bo_clr_AuthorizationMessage\INSERT clr_AuthorizationMessage.Outputs[OLE DB Destination Error Output].Columns[ErrorCode]"
+                          dataType="i4"
+                          lineageId="Package\Sequence Container\Extraction From Buy4_bo_clr_AuthorizationMessage\INSERT clr_AuthorizationMessage.Outputs[OLE DB Destination Error Output].Columns[ErrorCode]"
+                          name="ErrorCode"
+                          specialFlags="1" />
+                        <outputColumn
+                          refId="Package\Sequence Container\Extraction From Buy4_bo_clr_AuthorizationMessage\INSERT clr_AuthorizationMessage.Outputs[OLE DB Destination Error Output].Columns[ErrorColumn]"
+                          dataType="i4"
+                          lineageId="Package\Sequence Container\Extraction From Buy4_bo_clr_AuthorizationMessage\INSERT clr_AuthorizationMessage.Outputs[OLE DB Destination Error Output].Columns[ErrorColumn]"
+                          name="ErrorColumn"
+                          specialFlags="2" />
+                      </outputColumns>
+                      <externalMetadataColumns />
+                    </output>
+                  </outputs>
+                </component>
+              </components>
+              <paths>
+                <path
+                  refId="Package\Sequence Container\Extraction From Buy4_bo_clr_AuthorizationMessage.Paths[OLE DB Source Output]"
+                  endId="Package\Sequence Container\Extraction From Buy4_bo_clr_AuthorizationMessage\INSERT clr_AuthorizationMessage.Inputs[OLE DB Destination Input]"
+                  name="OLE DB Source Output"
+                  startId="Package\Sequence Container\Extraction From Buy4_bo_clr_AuthorizationMessage\GET clr_AuthorizationMessage.Outputs[OLE DB Source Output]" />
               </paths>
             </pipeline>
           </DTS:ObjectData>
@@ -13304,7 +13629,7 @@ WHERE
           DTS:ExecutableType="Microsoft.ExecuteSQLTask"
           DTS:LocaleID="-1"
           DTS:ObjectName="Get LastId From Buy4_bo_ATX_CONFIRMED_TRANSACTION"
-          DTS:ThreadHint="29">
+          DTS:ThreadHint="11">
           <DTS:Variables />
           <DTS:ObjectData>
             <SQLTask:SqlTaskData
@@ -13318,6 +13643,27 @@ WHERE
           </DTS:ObjectData>
         </DTS:Executable>
         <DTS:Executable
+          DTS:refId="Package\Sequence Container\Get LastId From Buy4_bo_clr_AuthorizationMessage"
+          DTS:CreationName="Microsoft.ExecuteSQLTask"
+          DTS:Description="Execute SQL Task"
+          DTS:DTSID="{8ef5590e-61b4-4221-b20f-2dfe54f59a27}"
+          DTS:ExecutableType="Microsoft.ExecuteSQLTask"
+          DTS:LocaleID="-1"
+          DTS:ObjectName="Get LastId From Buy4_bo_clr_AuthorizationMessage"
+          DTS:ThreadHint="12">
+          <DTS:Variables />
+          <DTS:ObjectData>
+            <SQLTask:SqlTaskData
+              SQLTask:Connection="{98542009-D952-4B72-BCEA-994E09613BCA}"
+              SQLTask:SqlStatementSource="SELECT LastId &#xA;FROM LastImportId &#xA;WHERE DatabaseName = 'Buy4_bo' AND SchemaName = 'clr' AND TableName = 'AuthorizationMessage'&#xA;"
+              SQLTask:ResultType="ResultSetType_SingleRow" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask">
+              <SQLTask:ResultBinding
+                SQLTask:ResultName="0"
+                SQLTask:DtsVariableName="User::VAR_AuthorizationMessageLastID" />
+            </SQLTask:SqlTaskData>
+          </DTS:ObjectData>
+        </DTS:Executable>
+        <DTS:Executable
           DTS:refId="Package\Sequence Container\Get LastId From Buy4_bo_InterchangeMovement"
           DTS:CreationName="Microsoft.ExecuteSQLTask"
           DTS:Description="Execute SQL Task"
@@ -13325,7 +13671,7 @@ WHERE
           DTS:ExecutableType="Microsoft.ExecuteSQLTask"
           DTS:LocaleID="-1"
           DTS:ObjectName="Get LastId From Buy4_bo_InterchangeMovement"
-          DTS:ThreadHint="27">
+          DTS:ThreadHint="13">
           <DTS:Variables />
           <DTS:ObjectData>
             <SQLTask:SqlTaskData
@@ -13346,7 +13692,7 @@ WHERE
           DTS:ExecutableType="Microsoft.ExecuteSQLTask"
           DTS:LocaleID="-1"
           DTS:ObjectName="Get LastId From Buy4_clearing_MasterCardFeeCollectionOther"
-          DTS:ThreadHint="31">
+          DTS:ThreadHint="15">
           <DTS:Variables />
           <DTS:ObjectData>
             <SQLTask:SqlTaskData
@@ -13367,7 +13713,7 @@ WHERE
           DTS:ExecutableType="Microsoft.ExecuteSQLTask"
           DTS:LocaleID="-1"
           DTS:ObjectName="Get LastId From Buy4_clearing_MasterCardFileHeader"
-          DTS:ThreadHint="32">
+          DTS:ThreadHint="16">
           <DTS:Variables />
           <DTS:ObjectData>
             <SQLTask:SqlTaskData
@@ -13388,7 +13734,7 @@ WHERE
           DTS:ExecutableType="Microsoft.ExecuteSQLTask"
           DTS:LocaleID="-1"
           DTS:ObjectName="Get LastId From Buy4_clearing_MasterCardSmsExceptionRecord"
-          DTS:ThreadHint="30">
+          DTS:ThreadHint="17">
           <DTS:Variables />
           <DTS:ObjectData>
             <SQLTask:SqlTaskData
@@ -13409,7 +13755,7 @@ WHERE
           DTS:ExecutableType="Microsoft.ExecuteSQLTask"
           DTS:LocaleID="-1"
           DTS:ObjectName="Get LastId From Buy4_clearing_MasterCardSmsReportFinancialRecord"
-          DTS:ThreadHint="25">
+          DTS:ThreadHint="18">
           <DTS:Variables />
           <DTS:ObjectData>
             <SQLTask:SqlTaskData
@@ -13430,7 +13776,7 @@ WHERE
           DTS:ExecutableType="Microsoft.ExecuteSQLTask"
           DTS:LocaleID="-1"
           DTS:ObjectName="Get LastId From Buy4_clearing_VisaDisbursementTransaction"
-          DTS:ThreadHint="24">
+          DTS:ThreadHint="19">
           <DTS:Variables />
           <DTS:ObjectData>
             <SQLTask:SqlTaskData
@@ -13451,7 +13797,7 @@ WHERE
           DTS:ExecutableType="Microsoft.ExecuteSQLTask"
           DTS:LocaleID="-1"
           DTS:ObjectName="Get LastId From Buy4_clearing_VisaFeeCollection"
-          DTS:ThreadHint="12">
+          DTS:ThreadHint="20">
           <DTS:Variables />
           <DTS:ObjectData>
             <SQLTask:SqlTaskData
@@ -13472,7 +13818,7 @@ WHERE
           DTS:ExecutableType="Microsoft.ExecuteSQLTask"
           DTS:LocaleID="-1"
           DTS:ObjectName="Get LastId From Buy4_clearing_VisaFeeCollectionTcr2"
-          DTS:ThreadHint="13">
+          DTS:ThreadHint="21">
           <DTS:Variables />
           <DTS:ObjectData>
             <SQLTask:SqlTaskData
@@ -13493,7 +13839,7 @@ WHERE
           DTS:ExecutableType="Microsoft.ExecuteSQLTask"
           DTS:LocaleID="-1"
           DTS:ObjectName="Get LastId From Buy4_clearing_VisaHeaderIncoming"
-          DTS:ThreadHint="14">
+          DTS:ThreadHint="0">
           <DTS:Variables />
           <DTS:ObjectData>
             <SQLTask:SqlTaskData
@@ -13514,7 +13860,7 @@ WHERE
           DTS:ExecutableType="Microsoft.ExecuteSQLTask"
           DTS:LocaleID="-1"
           DTS:ObjectName="Get LastId From Buy4_clearing_VisaSaleDraftTcr2"
-          DTS:ThreadHint="15">
+          DTS:ThreadHint="1">
           <DTS:Variables />
           <DTS:ObjectData>
             <SQLTask:SqlTaskData
@@ -13535,7 +13881,7 @@ WHERE
           DTS:ExecutableType="Microsoft.ExecuteSQLTask"
           DTS:LocaleID="-1"
           DTS:ObjectName="Get LastId From ClearingAmex_DafFirstAndFinalChargebacksMessage"
-          DTS:ThreadHint="16">
+          DTS:ThreadHint="2">
           <DTS:Variables />
           <DTS:ObjectData>
             <SQLTask:SqlTaskData
@@ -13556,7 +13902,7 @@ WHERE
           DTS:ExecutableType="Microsoft.ExecuteSQLTask"
           DTS:LocaleID="-1"
           DTS:ObjectName="Get LastId From ClearingAmex_DafFirstAndSecondPresentmentMessage"
-          DTS:ThreadHint="17">
+          DTS:ThreadHint="3">
           <DTS:Variables />
           <DTS:ObjectData>
             <SQLTask:SqlTaskData
@@ -13577,7 +13923,7 @@ WHERE
           DTS:ExecutableType="Microsoft.ExecuteSQLTask"
           DTS:LocaleID="-1"
           DTS:ObjectName="Get LastId From ClearingElo_AdditionalDataRegistry"
-          DTS:ThreadHint="18">
+          DTS:ThreadHint="4">
           <DTS:Variables />
           <DTS:ObjectData>
             <SQLTask:SqlTaskData
@@ -13598,7 +13944,7 @@ WHERE
           DTS:ExecutableType="Microsoft.ExecuteSQLTask"
           DTS:LocaleID="-1"
           DTS:ObjectName="Get LastId From ClearingElo_ClearingFile"
-          DTS:ThreadHint="19">
+          DTS:ThreadHint="5">
           <DTS:Variables />
           <DTS:ObjectData>
             <SQLTask:SqlTaskData
@@ -13619,7 +13965,7 @@ WHERE
           DTS:ExecutableType="Microsoft.ExecuteSQLTask"
           DTS:LocaleID="-1"
           DTS:ObjectName="Get LastId From ClearingElo_FeeCollectionRegistry"
-          DTS:ThreadHint="20">
+          DTS:ThreadHint="6">
           <DTS:Variables />
           <DTS:ObjectData>
             <SQLTask:SqlTaskData
@@ -13640,7 +13986,7 @@ WHERE
           DTS:ExecutableType="Microsoft.ExecuteSQLTask"
           DTS:LocaleID="-1"
           DTS:ObjectName="Get LastId From ClearingElo_FileHeaderRegistry"
-          DTS:ThreadHint="21">
+          DTS:ThreadHint="7">
           <DTS:Variables />
           <DTS:ObjectData>
             <SQLTask:SqlTaskData
@@ -13661,7 +14007,7 @@ WHERE
           DTS:ExecutableType="Microsoft.ExecuteSQLTask"
           DTS:LocaleID="-1"
           DTS:ObjectName="Get LastId From ClearingElo_MainDataRegistry"
-          DTS:ThreadHint="22">
+          DTS:ThreadHint="8">
           <DTS:Variables />
           <DTS:ObjectData>
             <SQLTask:SqlTaskData
@@ -13682,7 +14028,7 @@ WHERE
           DTS:ExecutableType="Microsoft.ExecuteSQLTask"
           DTS:LocaleID="-1"
           DTS:ObjectName="Get LastId From ClearingElo_RejectionReasonDataRegistry"
-          DTS:ThreadHint="23">
+          DTS:ThreadHint="9">
           <DTS:Variables />
           <DTS:ObjectData>
             <SQLTask:SqlTaskData
@@ -13703,7 +14049,7 @@ WHERE
           DTS:ExecutableType="Microsoft.ExecuteSQLTask"
           DTS:LocaleID="-1"
           DTS:ObjectName="Get MagicNumber From Buy4_bo_InterchangeMovement"
-          DTS:ThreadHint="26">
+          DTS:ThreadHint="14">
           <DTS:Variables />
           <DTS:ObjectData>
             <SQLTask:SqlTaskData
@@ -13724,7 +14070,7 @@ WHERE
           DTS:ExecutableType="Microsoft.ExecuteSQLTask"
           DTS:LocaleID="-1"
           DTS:ObjectName="Truncate Domain Tables"
-          DTS:ThreadHint="28">
+          DTS:ThreadHint="10">
           <DTS:Variables />
           <DTS:ObjectData>
             <SQLTask:SqlTaskData
@@ -13740,12 +14086,28 @@ WHERE
           DTS:ExecutableType="Microsoft.ExecuteSQLTask"
           DTS:LocaleID="-1"
           DTS:ObjectName="UPDATE LastId Buy4_bo_ATX_CONFIRMED_TRANSACTION"
-          DTS:ThreadHint="29">
+          DTS:ThreadHint="11">
           <DTS:Variables />
           <DTS:ObjectData>
             <SQLTask:SqlTaskData
               SQLTask:Connection="{98542009-D952-4B72-BCEA-994E09613BCA}"
               SQLTask:SqlStatementSource="UPDATE dbo.LastImportId&#xA;SET LastId = (SELECT MAX(ID_CONFIRMED_TRANSACTION) FROM dataSource.ATX_CONFIRMED_TRANSACTION)&#xA;WHERE DatabaseName = 'Buy4_bo' AND SchemaName = 'dbo' AND TableName = 'ATX_CONFIRMED_TRANSACTION'&#xA;" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
+          </DTS:ObjectData>
+        </DTS:Executable>
+        <DTS:Executable
+          DTS:refId="Package\Sequence Container\UPDATE LastId Buy4_bo_clr_AuthorizationMessage"
+          DTS:CreationName="Microsoft.ExecuteSQLTask"
+          DTS:Description="Execute SQL Task"
+          DTS:DTSID="{ee52a001-08e2-411b-b8f6-88b14af0fc44}"
+          DTS:ExecutableType="Microsoft.ExecuteSQLTask"
+          DTS:LocaleID="-1"
+          DTS:ObjectName="UPDATE LastId Buy4_bo_clr_AuthorizationMessage"
+          DTS:ThreadHint="12">
+          <DTS:Variables />
+          <DTS:ObjectData>
+            <SQLTask:SqlTaskData
+              SQLTask:Connection="{98542009-D952-4B72-BCEA-994E09613BCA}"
+              SQLTask:SqlStatementSource="&#xA;UPDATE dbo.LastImportId&#xA;SET LastId = (SELECT MAX([AuthorizationId]) FROM [dataSource].[AuthorizationMessage])&#xA;WHERE DatabaseName = 'Buy4_bo' AND SchemaName = 'clr' AND TableName = 'AuthorizationMessage'&#xA;" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
           </DTS:ObjectData>
         </DTS:Executable>
         <DTS:Executable
@@ -13756,7 +14118,7 @@ WHERE
           DTS:ExecutableType="Microsoft.ExecuteSQLTask"
           DTS:LocaleID="-1"
           DTS:ObjectName="UPDATE LastId Buy4_bo_InterchangeMovement"
-          DTS:ThreadHint="26">
+          DTS:ThreadHint="13">
           <DTS:Variables />
           <DTS:ObjectData>
             <SQLTask:SqlTaskData
@@ -13772,7 +14134,7 @@ WHERE
           DTS:ExecutableType="Microsoft.ExecuteSQLTask"
           DTS:LocaleID="-1"
           DTS:ObjectName="UPDATE LastId Buy4_clearing_MasterCardFeeCollectionOther"
-          DTS:ThreadHint="31">
+          DTS:ThreadHint="15">
           <DTS:Variables />
           <DTS:ObjectData>
             <SQLTask:SqlTaskData
@@ -13788,7 +14150,7 @@ WHERE
           DTS:ExecutableType="Microsoft.ExecuteSQLTask"
           DTS:LocaleID="-1"
           DTS:ObjectName="UPDATE LastId Buy4_clearing_MasterCardFileHeader"
-          DTS:ThreadHint="32">
+          DTS:ThreadHint="16">
           <DTS:Variables />
           <DTS:ObjectData>
             <SQLTask:SqlTaskData
@@ -13804,7 +14166,7 @@ WHERE
           DTS:ExecutableType="Microsoft.ExecuteSQLTask"
           DTS:LocaleID="-1"
           DTS:ObjectName="UPDATE LastId Buy4_clearing_MasterCardSmsExceptionRecord"
-          DTS:ThreadHint="30">
+          DTS:ThreadHint="17">
           <DTS:Variables />
           <DTS:ObjectData>
             <SQLTask:SqlTaskData
@@ -13820,7 +14182,7 @@ WHERE
           DTS:ExecutableType="Microsoft.ExecuteSQLTask"
           DTS:LocaleID="-1"
           DTS:ObjectName="UPDATE LastId Buy4_clearing_MasterCardSmsReportFinancialRecord"
-          DTS:ThreadHint="25">
+          DTS:ThreadHint="18">
           <DTS:Variables />
           <DTS:ObjectData>
             <SQLTask:SqlTaskData
@@ -13836,7 +14198,7 @@ WHERE
           DTS:ExecutableType="Microsoft.ExecuteSQLTask"
           DTS:LocaleID="-1"
           DTS:ObjectName="UPDATE LastId Buy4_clearing_VisaDisbursementTransaction"
-          DTS:ThreadHint="24">
+          DTS:ThreadHint="19">
           <DTS:Variables />
           <DTS:ObjectData>
             <SQLTask:SqlTaskData
@@ -13852,7 +14214,7 @@ WHERE
           DTS:ExecutableType="Microsoft.ExecuteSQLTask"
           DTS:LocaleID="-1"
           DTS:ObjectName="UPDATE LastId Buy4_clearing_VisaFeeCollection"
-          DTS:ThreadHint="12">
+          DTS:ThreadHint="20">
           <DTS:Variables />
           <DTS:ObjectData>
             <SQLTask:SqlTaskData
@@ -13868,7 +14230,7 @@ WHERE
           DTS:ExecutableType="Microsoft.ExecuteSQLTask"
           DTS:LocaleID="-1"
           DTS:ObjectName="UPDATE LastId Buy4_clearing_VisaFeeCollectionTcr2"
-          DTS:ThreadHint="13">
+          DTS:ThreadHint="21">
           <DTS:Variables />
           <DTS:ObjectData>
             <SQLTask:SqlTaskData
@@ -13884,7 +14246,7 @@ WHERE
           DTS:ExecutableType="Microsoft.ExecuteSQLTask"
           DTS:LocaleID="-1"
           DTS:ObjectName="UPDATE LastId Buy4_clearing_VisaHeaderIncoming"
-          DTS:ThreadHint="14">
+          DTS:ThreadHint="0">
           <DTS:Variables />
           <DTS:ObjectData>
             <SQLTask:SqlTaskData
@@ -13900,7 +14262,7 @@ WHERE
           DTS:ExecutableType="Microsoft.ExecuteSQLTask"
           DTS:LocaleID="-1"
           DTS:ObjectName="UPDATE LastId Buy4_clearing_VisaSaleDraftTcr2"
-          DTS:ThreadHint="15">
+          DTS:ThreadHint="1">
           <DTS:Variables />
           <DTS:ObjectData>
             <SQLTask:SqlTaskData
@@ -13916,7 +14278,7 @@ WHERE
           DTS:ExecutableType="Microsoft.ExecuteSQLTask"
           DTS:LocaleID="-1"
           DTS:ObjectName="UPDATE LastId ClearingAmex_DafFirstAndFinalChargebacksMessage"
-          DTS:ThreadHint="16">
+          DTS:ThreadHint="2">
           <DTS:Variables />
           <DTS:ObjectData>
             <SQLTask:SqlTaskData
@@ -13932,7 +14294,7 @@ WHERE
           DTS:ExecutableType="Microsoft.ExecuteSQLTask"
           DTS:LocaleID="-1"
           DTS:ObjectName="UPDATE LastId ClearingAmex_DafFirstAndSecondPresentmentMessage"
-          DTS:ThreadHint="17">
+          DTS:ThreadHint="3">
           <DTS:Variables />
           <DTS:ObjectData>
             <SQLTask:SqlTaskData
@@ -13948,7 +14310,7 @@ WHERE
           DTS:ExecutableType="Microsoft.ExecuteSQLTask"
           DTS:LocaleID="-1"
           DTS:ObjectName="UPDATE LastId ClearingElo_AdditionalDataRegistry"
-          DTS:ThreadHint="18">
+          DTS:ThreadHint="4">
           <DTS:Variables />
           <DTS:ObjectData>
             <SQLTask:SqlTaskData
@@ -13964,7 +14326,7 @@ WHERE
           DTS:ExecutableType="Microsoft.ExecuteSQLTask"
           DTS:LocaleID="-1"
           DTS:ObjectName="UPDATE LastId ClearingElo_ClearingFile"
-          DTS:ThreadHint="19">
+          DTS:ThreadHint="5">
           <DTS:Variables />
           <DTS:ObjectData>
             <SQLTask:SqlTaskData
@@ -13980,7 +14342,7 @@ WHERE
           DTS:ExecutableType="Microsoft.ExecuteSQLTask"
           DTS:LocaleID="-1"
           DTS:ObjectName="UPDATE LastId ClearingElo_FeeCollectionRegistry"
-          DTS:ThreadHint="20">
+          DTS:ThreadHint="6">
           <DTS:Variables />
           <DTS:ObjectData>
             <SQLTask:SqlTaskData
@@ -13996,7 +14358,7 @@ WHERE
           DTS:ExecutableType="Microsoft.ExecuteSQLTask"
           DTS:LocaleID="-1"
           DTS:ObjectName="UPDATE LastId ClearingElo_FileHeaderRegistry"
-          DTS:ThreadHint="21">
+          DTS:ThreadHint="7">
           <DTS:Variables />
           <DTS:ObjectData>
             <SQLTask:SqlTaskData
@@ -14012,7 +14374,7 @@ WHERE
           DTS:ExecutableType="Microsoft.ExecuteSQLTask"
           DTS:LocaleID="-1"
           DTS:ObjectName="UPDATE LastId ClearingElo_MainDataRegistry"
-          DTS:ThreadHint="22">
+          DTS:ThreadHint="8">
           <DTS:Variables />
           <DTS:ObjectData>
             <SQLTask:SqlTaskData
@@ -14028,7 +14390,7 @@ WHERE
           DTS:ExecutableType="Microsoft.ExecuteSQLTask"
           DTS:LocaleID="-1"
           DTS:ObjectName="UPDATE LastId ClearingElo_RejectionReasonDataRegistry"
-          DTS:ThreadHint="23">
+          DTS:ThreadHint="9">
           <DTS:Variables />
           <DTS:ObjectData>
             <SQLTask:SqlTaskData
@@ -14044,7 +14406,7 @@ WHERE
           DTS:ExecutableType="Microsoft.ExecuteSQLTask"
           DTS:LocaleID="-1"
           DTS:ObjectName="UPDATE MagicNumber Buy4_bo_InterchangeMovement"
-          DTS:ThreadHint="27">
+          DTS:ThreadHint="14">
           <DTS:Variables />
           <DTS:ObjectData>
             <SQLTask:SqlTaskData
@@ -14182,6 +14544,14 @@ WHERE
           DTS:LogicalAnd="True"
           DTS:ObjectName="Constraint 2 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1"
           DTS:To="Package\Sequence Container\Extraction From ClearingAmex_DafFirstAndSecondPresentmentMessage" />
+        <DTS:PrecedenceConstraint
+          DTS:refId="Package\Sequence Container.PrecedenceConstraints[Constraint 2 1 1 1 1 1 1 1 1 1 1 1 1 2]"
+          DTS:CreationName=""
+          DTS:DTSID="{d275e81c-6c12-4dc6-95d5-c142fb166a31}"
+          DTS:From="Package\Sequence Container\Get LastId From Buy4_bo_clr_AuthorizationMessage"
+          DTS:LogicalAnd="True"
+          DTS:ObjectName="Constraint 2 1 1 1 1 1 1 1 1 1 1 1 1 2"
+          DTS:To="Package\Sequence Container\Extraction From Buy4_bo_clr_AuthorizationMessage" />
         <DTS:PrecedenceConstraint
           DTS:refId="Package\Sequence Container.PrecedenceConstraints[Constraint 3]"
           DTS:CreationName=""
@@ -14382,6 +14752,14 @@ WHERE
           DTS:LogicalAnd="True"
           DTS:ObjectName="Constraint 8 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1"
           DTS:To="Package\Sequence Container\UPDATE LastId ClearingAmex_DafFirstAndSecondPresentmentMessage" />
+        <DTS:PrecedenceConstraint
+          DTS:refId="Package\Sequence Container.PrecedenceConstraints[Constraint 8 1 1 1 1 1 1 1 1 2]"
+          DTS:CreationName=""
+          DTS:DTSID="{01adbd04-f7aa-4e27-9b57-a4f4c560eb29}"
+          DTS:From="Package\Sequence Container\Extraction From Buy4_bo_clr_AuthorizationMessage"
+          DTS:LogicalAnd="True"
+          DTS:ObjectName="Constraint 8 1 1 1 1 1 1 1 1 2"
+          DTS:To="Package\Sequence Container\UPDATE LastId Buy4_bo_clr_AuthorizationMessage" />
       </DTS:PrecedenceConstraints>
     </DTS:Executable>
     <DTS:Executable
@@ -19581,7 +19959,7 @@ WHERE
           DTS:ExecutableType="Microsoft.ExecuteSQLTask"
           DTS:LocaleID="-1"
           DTS:ObjectName="Get LastId From Buy4_clearing_ClearingFile"
-          DTS:ThreadHint="9">
+          DTS:ThreadHint="27">
           <DTS:Variables />
           <DTS:ObjectData>
             <SQLTask:SqlTaskData
@@ -19602,7 +19980,7 @@ WHERE
           DTS:ExecutableType="Microsoft.ExecuteSQLTask"
           DTS:LocaleID="-1"
           DTS:ObjectName="Get LastId From Buy4_clearing_MasterCardChargeback"
-          DTS:ThreadHint="8">
+          DTS:ThreadHint="25">
           <DTS:Variables />
           <DTS:ObjectData>
             <SQLTask:SqlTaskData
@@ -19623,7 +20001,7 @@ WHERE
           DTS:ExecutableType="Microsoft.ExecuteSQLTask"
           DTS:LocaleID="-1"
           DTS:ObjectName="Get LastId From Buy4_clearing_MasterCardFileReject"
-          DTS:ThreadHint="10">
+          DTS:ThreadHint="26">
           <DTS:Variables />
           <DTS:ObjectData>
             <SQLTask:SqlTaskData
@@ -19644,7 +20022,7 @@ WHERE
           DTS:ExecutableType="Microsoft.ExecuteSQLTask"
           DTS:LocaleID="-1"
           DTS:ObjectName="Get LastId From Buy4_clearing_MasterCardFirstPresentment"
-          DTS:ThreadHint="11">
+          DTS:ThreadHint="23">
           <DTS:Variables />
           <DTS:ObjectData>
             <SQLTask:SqlTaskData
@@ -19665,7 +20043,7 @@ WHERE
           DTS:ExecutableType="Microsoft.ExecuteSQLTask"
           DTS:LocaleID="-1"
           DTS:ObjectName="Get LastId From Buy4_clearing_MasterCardMessageException"
-          DTS:ThreadHint="0">
+          DTS:ThreadHint="28">
           <DTS:Variables />
           <DTS:ObjectData>
             <SQLTask:SqlTaskData
@@ -19686,7 +20064,7 @@ WHERE
           DTS:ExecutableType="Microsoft.ExecuteSQLTask"
           DTS:LocaleID="-1"
           DTS:ObjectName="Get LastId From Buy4_clearing_VisaDisputeFinancialStatusAdvice"
-          DTS:ThreadHint="1">
+          DTS:ThreadHint="29">
           <DTS:Variables />
           <DTS:ObjectData>
             <SQLTask:SqlTaskData
@@ -19707,7 +20085,7 @@ WHERE
           DTS:ExecutableType="Microsoft.ExecuteSQLTask"
           DTS:LocaleID="-1"
           DTS:ObjectName="Get LastId From Buy4_clearing_VisaDisputeFinancialStatusAdviceTcr1"
-          DTS:ThreadHint="2">
+          DTS:ThreadHint="30">
           <DTS:Variables />
           <DTS:ObjectData>
             <SQLTask:SqlTaskData
@@ -19728,7 +20106,7 @@ WHERE
           DTS:ExecutableType="Microsoft.ExecuteSQLTask"
           DTS:LocaleID="-1"
           DTS:ObjectName="Get LastId From Buy4_clearing_VisaSaleDraft"
-          DTS:ThreadHint="3">
+          DTS:ThreadHint="31">
           <DTS:Variables />
           <DTS:ObjectData>
             <SQLTask:SqlTaskData
@@ -19749,7 +20127,7 @@ WHERE
           DTS:ExecutableType="Microsoft.ExecuteSQLTask"
           DTS:LocaleID="-1"
           DTS:ObjectName="Get LastId From Buy4_clearing_VisaSaleDraftTcr4ClaimsResolution"
-          DTS:ThreadHint="4">
+          DTS:ThreadHint="33">
           <DTS:Variables />
           <DTS:ObjectData>
             <SQLTask:SqlTaskData
@@ -19770,7 +20148,7 @@ WHERE
           DTS:ExecutableType="Microsoft.ExecuteSQLTask"
           DTS:LocaleID="-1"
           DTS:ObjectName="Truncate table Buy4_clearing_VisaSaleDraftStage"
-          DTS:ThreadHint="5">
+          DTS:ThreadHint="32">
           <DTS:Variables />
           <DTS:ObjectData>
             <SQLTask:SqlTaskData
@@ -19786,7 +20164,7 @@ WHERE
           DTS:ExecutableType="Microsoft.ExecuteSQLTask"
           DTS:LocaleID="-1"
           DTS:ObjectName="Truncate Table Recaivables_dataSource_MasterCardChargebackStage"
-          DTS:ThreadHint="6">
+          DTS:ThreadHint="24">
           <DTS:Variables />
           <DTS:ObjectData>
             <SQLTask:SqlTaskData
@@ -19802,7 +20180,7 @@ WHERE
           DTS:ExecutableType="Microsoft.ExecuteSQLTask"
           DTS:LocaleID="-1"
           DTS:ObjectName="truncate table Receivables_dataSource_MasterCardFirstPresentmentStage"
-          DTS:ThreadHint="7">
+          DTS:ThreadHint="22">
           <DTS:Variables />
           <DTS:ObjectData>
             <SQLTask:SqlTaskData
@@ -19818,7 +20196,7 @@ WHERE
           DTS:ExecutableType="Microsoft.ExecuteSQLTask"
           DTS:LocaleID="-1"
           DTS:ObjectName="UPDATE IdConfirmedTransaction NULL from Buy4_clearing_MasterCardChargeback"
-          DTS:ThreadHint="6">
+          DTS:ThreadHint="24">
           <DTS:Variables />
           <DTS:ObjectData>
             <SQLTask:SqlTaskData
@@ -19834,7 +20212,7 @@ WHERE
           DTS:ExecutableType="Microsoft.ExecuteSQLTask"
           DTS:LocaleID="-1"
           DTS:ObjectName="UPDATE IdConfirmedTransaction NULL from Buy4_clearing_MasterCardFirstPresentment"
-          DTS:ThreadHint="7">
+          DTS:ThreadHint="22">
           <DTS:Variables />
           <DTS:ObjectData>
             <SQLTask:SqlTaskData
@@ -19850,7 +20228,7 @@ WHERE
           DTS:ExecutableType="Microsoft.ExecuteSQLTask"
           DTS:LocaleID="-1"
           DTS:ObjectName="UPDATE IdConfirmedTransaction NULL from Buy4_clearing_VisaSaleDraft"
-          DTS:ThreadHint="3">
+          DTS:ThreadHint="31">
           <DTS:Variables />
           <DTS:ObjectData>
             <SQLTask:SqlTaskData
@@ -19866,7 +20244,7 @@ WHERE
           DTS:ExecutableType="Microsoft.ExecuteSQLTask"
           DTS:LocaleID="-1"
           DTS:ObjectName="UPDATE LastId Buy4_clearing_ClearingFile"
-          DTS:ThreadHint="9">
+          DTS:ThreadHint="27">
           <DTS:Variables />
           <DTS:ObjectData>
             <SQLTask:SqlTaskData
@@ -19882,7 +20260,7 @@ WHERE
           DTS:ExecutableType="Microsoft.ExecuteSQLTask"
           DTS:LocaleID="-1"
           DTS:ObjectName="UPDATE LastId Buy4_clearing_MasterCardChargeback"
-          DTS:ThreadHint="6">
+          DTS:ThreadHint="24">
           <DTS:Variables />
           <DTS:ObjectData>
             <SQLTask:SqlTaskData
@@ -19898,7 +20276,7 @@ WHERE
           DTS:ExecutableType="Microsoft.ExecuteSQLTask"
           DTS:LocaleID="-1"
           DTS:ObjectName="UPDATE LastId Buy4_clearing_MasterCardFileReject"
-          DTS:ThreadHint="10">
+          DTS:ThreadHint="26">
           <DTS:Variables />
           <DTS:ObjectData>
             <SQLTask:SqlTaskData
@@ -19914,7 +20292,7 @@ WHERE
           DTS:ExecutableType="Microsoft.ExecuteSQLTask"
           DTS:LocaleID="-1"
           DTS:ObjectName="UPDATE LastId Buy4_clearing_MasterCardFirstPresentment"
-          DTS:ThreadHint="7">
+          DTS:ThreadHint="22">
           <DTS:Variables />
           <DTS:ObjectData>
             <SQLTask:SqlTaskData
@@ -19930,7 +20308,7 @@ WHERE
           DTS:ExecutableType="Microsoft.ExecuteSQLTask"
           DTS:LocaleID="-1"
           DTS:ObjectName="UPDATE LastId Buy4_clearing_MasterCardMessageException"
-          DTS:ThreadHint="0">
+          DTS:ThreadHint="28">
           <DTS:Variables />
           <DTS:ObjectData>
             <SQLTask:SqlTaskData
@@ -19946,7 +20324,7 @@ WHERE
           DTS:ExecutableType="Microsoft.ExecuteSQLTask"
           DTS:LocaleID="-1"
           DTS:ObjectName="UPDATE LastId Buy4_clearing_VisaDisputeFinancialStatusAdvice"
-          DTS:ThreadHint="1">
+          DTS:ThreadHint="29">
           <DTS:Variables />
           <DTS:ObjectData>
             <SQLTask:SqlTaskData
@@ -19962,7 +20340,7 @@ WHERE
           DTS:ExecutableType="Microsoft.ExecuteSQLTask"
           DTS:LocaleID="-1"
           DTS:ObjectName="UPDATE LastId Buy4_clearing_VisaDisputeFinancialStatusAdviceTcr1"
-          DTS:ThreadHint="2">
+          DTS:ThreadHint="30">
           <DTS:Variables />
           <DTS:ObjectData>
             <SQLTask:SqlTaskData
@@ -19978,7 +20356,7 @@ WHERE
           DTS:ExecutableType="Microsoft.ExecuteSQLTask"
           DTS:LocaleID="-1"
           DTS:ObjectName="UPDATE LastId Buy4_clearing_VisaSaleDraft"
-          DTS:ThreadHint="3">
+          DTS:ThreadHint="31">
           <DTS:Variables />
           <DTS:ObjectData>
             <SQLTask:SqlTaskData
@@ -19994,7 +20372,7 @@ WHERE
           DTS:ExecutableType="Microsoft.ExecuteSQLTask"
           DTS:LocaleID="-1"
           DTS:ObjectName="UPDATE LastId Buy4_clearing_VisaSaleDraftTcr4ClaimsResolution"
-          DTS:ThreadHint="4">
+          DTS:ThreadHint="33">
           <DTS:Variables />
           <DTS:ObjectData>
             <SQLTask:SqlTaskData
@@ -20206,7 +20584,7 @@ WHERE
       DTS:ExecutableType="Microsoft.ExecuteSQLTask"
       DTS:LocaleID="-1"
       DTS:ObjectName="Truncate Table ATX_CONFIRMED_TRANSACTION_STAGE"
-      DTS:ThreadHint="3">
+      DTS:ThreadHint="23">
       <DTS:Variables />
       <DTS:ObjectData>
         <SQLTask:SqlTaskData
@@ -20402,9 +20780,25 @@ WHERE
           Id="Package\Sequence Container\Extraction From ClearingElo_AdditionalDataRegistry"
           TopLeft="398,408" />
         <NodeLayout
+          Size="282,42"
+          Id="Package\Sequence Container\Extraction From ClearingElo_ClearingFile"
+          TopLeft="1276,407" />
+        <NodeLayout
+          Size="330,42"
+          Id="Package\Sequence Container\Extraction From ClearingElo_FeeCollectionRegistry"
+          TopLeft="1728,414" />
+        <NodeLayout
+          Size="317,42"
+          Id="Package\Sequence Container\Extraction From ClearingElo_FileHeaderRegistry"
+          TopLeft="846,405" />
+        <NodeLayout
           Size="310,42"
           Id="Package\Sequence Container\Extraction From ClearingElo_MainDataRegistry"
           TopLeft="13,404" />
+        <NodeLayout
+          Size="370,42"
+          Id="Package\Sequence Container\Extraction From ClearingElo_RejectionReasonDataRegistry"
+          TopLeft="2178,411" />
         <NodeLayout
           Size="364,42"
           Id="Package\Sequence Container\Get LastId From Buy4_bo_ATX_CONFIRMED_TRANSACTION"
@@ -20462,9 +20856,25 @@ WHERE
           Id="Package\Sequence Container\Get LastId From ClearingElo_AdditionalDataRegistry"
           TopLeft="397,294" />
         <NodeLayout
+          Size="283,42"
+          Id="Package\Sequence Container\Get LastId From ClearingElo_ClearingFile"
+          TopLeft="1275,293" />
+        <NodeLayout
+          Size="332,42"
+          Id="Package\Sequence Container\Get LastId From ClearingElo_FeeCollectionRegistry"
+          TopLeft="1727,300" />
+        <NodeLayout
+          Size="319,42"
+          Id="Package\Sequence Container\Get LastId From ClearingElo_FileHeaderRegistry"
+          TopLeft="845,291" />
+        <NodeLayout
           Size="312,42"
           Id="Package\Sequence Container\Get LastId From ClearingElo_MainDataRegistry"
           TopLeft="12,290" />
+        <NodeLayout
+          Size="372,42"
+          Id="Package\Sequence Container\Get LastId From ClearingElo_RejectionReasonDataRegistry"
+          TopLeft="2177,297" />
         <NodeLayout
           Size="347,42"
           Id="Package\Sequence Container\Get MagicNumber From Buy4_bo_InterchangeMovement"
@@ -20530,9 +20940,25 @@ WHERE
           Id="Package\Sequence Container\UPDATE LastId ClearingElo_AdditionalDataRegistry"
           TopLeft="403,513" />
         <NodeLayout
+          Size="281,42"
+          Id="Package\Sequence Container\UPDATE LastId ClearingElo_ClearingFile"
+          TopLeft="1281,512" />
+        <NodeLayout
+          Size="330,42"
+          Id="Package\Sequence Container\UPDATE LastId ClearingElo_FeeCollectionRegistry"
+          TopLeft="1733,519" />
+        <NodeLayout
+          Size="317,42"
+          Id="Package\Sequence Container\UPDATE LastId ClearingElo_FileHeaderRegistry"
+          TopLeft="851,510" />
+        <NodeLayout
           Size="310,42"
           Id="Package\Sequence Container\UPDATE LastId ClearingElo_MainDataRegistry"
           TopLeft="18,509" />
+        <NodeLayout
+          Size="370,42"
+          Id="Package\Sequence Container\UPDATE LastId ClearingElo_RejectionReasonDataRegistry"
+          TopLeft="2183,516" />
         <NodeLayout
           Size="341,42"
           Id="Package\Sequence Container\UPDATE MagicNumber Buy4_bo_InterchangeMovement"
@@ -21026,6 +21452,94 @@ WHERE
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
+          Id="Package\Sequence Container.PrecedenceConstraints[Constraint 5 1 1]"
+          TopLeft="1004.5,333">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,72"
+              Start="0,0"
+              End="0,64.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,64.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\Sequence Container.PrecedenceConstraints[Constraint 5 1 1 1]"
+          TopLeft="1416.75,335">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,72"
+              Start="0,0"
+              End="0,64.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,64.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\Sequence Container.PrecedenceConstraints[Constraint 5 1 1 1 1]"
+          TopLeft="1893,342">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,72"
+              Start="0,0"
+              End="0,64.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,64.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\Sequence Container.PrecedenceConstraints[Constraint 5 1 1 1 1 1]"
+          TopLeft="2363,339">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,72"
+              Start="0,0"
+              End="0,64.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,64.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
           Id="Package\Sequence Container.PrecedenceConstraints[Constraint 6]"
           TopLeft="170.5,446">
           <EdgeLayout.Curve>
@@ -21050,6 +21564,94 @@ WHERE
         <EdgeLayout
           Id="Package\Sequence Container.PrecedenceConstraints[Constraint 6 1]"
           TopLeft="568,450">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,63"
+              Start="0,0"
+              End="0,55.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,55.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\Sequence Container.PrecedenceConstraints[Constraint 6 1 1]"
+          TopLeft="1007,447">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,63"
+              Start="0,0"
+              End="0,55.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,55.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\Sequence Container.PrecedenceConstraints[Constraint 6 1 1 1]"
+          TopLeft="1419.25,449">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,63"
+              Start="0,0"
+              End="0,55.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,55.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\Sequence Container.PrecedenceConstraints[Constraint 6 1 1 1 1]"
+          TopLeft="1895.5,456">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,63"
+              Start="0,0"
+              End="0,55.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,55.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\Sequence Container.PrecedenceConstraints[Constraint 6 1 1 1 1 1]"
+          TopLeft="2365.5,453">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
@@ -21312,31 +21914,31 @@ WHERE
           </EdgeLayout.Labels>
         </EdgeLayout>
         <NodeLayout
-          Size="317,42"
-          Id="Package\Sequence Container\Extraction From ClearingElo_FileHeaderRegistry"
-          TopLeft="846,405" />
+          Size="336,42"
+          Id="Package\Sequence Container\Extraction From Buy4_bo_clr_AuthorizationMessage"
+          TopLeft="2596,408" />
         <NodeLayout
-          Size="319,42"
-          Id="Package\Sequence Container\Get LastId From ClearingElo_FileHeaderRegistry"
-          TopLeft="845,291" />
+          Size="337,42"
+          Id="Package\Sequence Container\Get LastId From Buy4_bo_clr_AuthorizationMessage"
+          TopLeft="2595,306" />
         <NodeLayout
-          Size="317,42"
-          Id="Package\Sequence Container\UPDATE LastId ClearingElo_FileHeaderRegistry"
-          TopLeft="851,510" />
+          Size="336,42"
+          Id="Package\Sequence Container\UPDATE LastId Buy4_bo_clr_AuthorizationMessage"
+          TopLeft="2597.5,510" />
         <EdgeLayout
-          Id="Package\Sequence Container.PrecedenceConstraints[Constraint 5 1 1]"
-          TopLeft="1004.5,333">
+          Id="Package\Sequence Container.PrecedenceConstraints[Constraint 2 1 1 1 1 1 1 1 1 1 1 1 1 2]"
+          TopLeft="2763.75,348">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="0,72"
+              EndConnector="0,60"
               Start="0,0"
-              End="0,64.5">
+              End="0,52.5">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,64.5" />
+                    End="0,52.5" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -21346,187 +21948,19 @@ WHERE
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package\Sequence Container.PrecedenceConstraints[Constraint 6 1 1]"
-          TopLeft="1007,447">
+          Id="Package\Sequence Container.PrecedenceConstraints[Constraint 8 1 1 1 1 1 1 1 1 2]"
+          TopLeft="2764.75,450">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="0,63"
+              EndConnector="0,60"
               Start="0,0"
-              End="0,55.5">
+              End="0,52.5">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,55.5" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <NodeLayout
-          Size="282,42"
-          Id="Package\Sequence Container\Extraction From ClearingElo_ClearingFile"
-          TopLeft="1276,407" />
-        <NodeLayout
-          Size="283,42"
-          Id="Package\Sequence Container\Get LastId From ClearingElo_ClearingFile"
-          TopLeft="1275,293" />
-        <NodeLayout
-          Size="281,42"
-          Id="Package\Sequence Container\UPDATE LastId ClearingElo_ClearingFile"
-          TopLeft="1281,512" />
-        <EdgeLayout
-          Id="Package\Sequence Container.PrecedenceConstraints[Constraint 5 1 1 1]"
-          TopLeft="1416.75,335">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="0,72"
-              Start="0,0"
-              End="0,64.5">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,64.5" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <EdgeLayout
-          Id="Package\Sequence Container.PrecedenceConstraints[Constraint 6 1 1 1]"
-          TopLeft="1419.25,449">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="0,63"
-              Start="0,0"
-              End="0,55.5">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,55.5" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <NodeLayout
-          Size="330,42"
-          Id="Package\Sequence Container\Extraction From ClearingElo_FeeCollectionRegistry"
-          TopLeft="1728,414" />
-        <NodeLayout
-          Size="332,42"
-          Id="Package\Sequence Container\Get LastId From ClearingElo_FeeCollectionRegistry"
-          TopLeft="1727,300" />
-        <NodeLayout
-          Size="330,42"
-          Id="Package\Sequence Container\UPDATE LastId ClearingElo_FeeCollectionRegistry"
-          TopLeft="1733,519" />
-        <EdgeLayout
-          Id="Package\Sequence Container.PrecedenceConstraints[Constraint 5 1 1 1 1]"
-          TopLeft="1893,342">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="0,72"
-              Start="0,0"
-              End="0,64.5">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,64.5" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <EdgeLayout
-          Id="Package\Sequence Container.PrecedenceConstraints[Constraint 6 1 1 1 1]"
-          TopLeft="1895.5,456">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="0,63"
-              Start="0,0"
-              End="0,55.5">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,55.5" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <NodeLayout
-          Size="370,42"
-          Id="Package\Sequence Container\Extraction From ClearingElo_RejectionReasonDataRegistry"
-          TopLeft="2178,411" />
-        <NodeLayout
-          Size="372,42"
-          Id="Package\Sequence Container\Get LastId From ClearingElo_RejectionReasonDataRegistry"
-          TopLeft="2177,297" />
-        <NodeLayout
-          Size="370,42"
-          Id="Package\Sequence Container\UPDATE LastId ClearingElo_RejectionReasonDataRegistry"
-          TopLeft="2183,516" />
-        <EdgeLayout
-          Id="Package\Sequence Container.PrecedenceConstraints[Constraint 5 1 1 1 1 1]"
-          TopLeft="2363,339">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="0,72"
-              Start="0,0"
-              End="0,64.5">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,64.5" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <EdgeLayout
-          Id="Package\Sequence Container.PrecedenceConstraints[Constraint 6 1 1 1 1 1]"
-          TopLeft="2365.5,453">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="0,63"
-              Start="0,0"
-              End="0,55.5">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,55.5" />
+                    End="0,52.5" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -22584,7 +23018,7 @@ WHERE
     design-time-name="Package\Get Chargeback from ATX">
     <LayoutInfo>
       <GraphLayout
-        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
+        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
         <NodeLayout
           Size="336,42"
           Id="Package\Get Chargeback from ATX\INSERT into ATX_CONFRIMED_TRANSACTION_STAGE"
@@ -22612,9 +23046,7 @@ WHERE
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="0,0,0,0"
-              RelativePosition="Any" />
+            <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
       </GraphLayout>
@@ -22647,13 +23079,13 @@ WHERE
       <GraphLayout
         Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
         <NodeLayout
-          Size="175,42"
-          Id="Package\Get Ids for Chargeback\Get Ids from UNION"
-          TopLeft="111.5,39.5" />
-        <NodeLayout
           Size="155,42"
           Id="Package\Get Ids for Chargeback\Insert into temp"
           TopLeft="110,161" />
+        <NodeLayout
+          Size="175,42"
+          Id="Package\Get Ids for Chargeback\Get Ids from UNION"
+          TopLeft="111.5,39.5" />
         <EdgeLayout
           Id="Package\Get Ids for Chargeback.Paths[OLE DB Source Output]"
           TopLeft="199,81.5">
@@ -22693,6 +23125,14 @@ WHERE
   </TaskHost>
   <PipelineComponentMetadata
     design-time-name="Package\Get Ids for Chargeback\Get Ids from UNION">
+    <Properties>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+  <PipelineComponentMetadata
+    design-time-name="Package\Get Ids for Chargeback\Insert into temp">
     <Properties>
       <Property>
         <Name>DataSourceViewID</Name>
@@ -23117,7 +23557,7 @@ WHERE
     design-time-name="Package\Sequence Container\Extraction From Buy4_bo_ATX_CONFIRMED_TRANSACTION">
     <LayoutInfo>
       <GraphLayout
-        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
+        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
         <NodeLayout
           Size="258,42"
           Id="Package\Sequence Container\Extraction From Buy4_bo_ATX_CONFIRMED_TRANSACTION\INSERT Target InterchangeMovement"
@@ -23157,9 +23597,7 @@ WHERE
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="0,0,0,0"
-              RelativePosition="Any" />
+            <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
       </GraphLayout>
@@ -23922,7 +24360,7 @@ WHERE
     design-time-name="Package\Sequence Container\Extraction From ClearingElo_AdditionalDataRegistry">
     <LayoutInfo>
       <GraphLayout
-        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
+        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
         <NodeLayout
           Size="212,42"
           Id="Package\Sequence Container\Extraction From ClearingElo_AdditionalDataRegistry\Get AdditionalDataRegistry"
@@ -23950,7 +24388,9 @@ WHERE
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
       </GraphLayout>
@@ -23978,10 +24418,205 @@ WHERE
     </Properties>
   </PipelineComponentMetadata>
   <TaskHost
+    design-time-name="Package\Sequence Container\Extraction From ClearingElo_ClearingFile">
+    <LayoutInfo>
+      <GraphLayout
+        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
+        <NodeLayout
+          Size="244,42"
+          Id="Package\Sequence Container\Extraction From ClearingElo_ClearingFile\INSERT ClearingElo_ClearingFile"
+          TopLeft="170,222" />
+        <NodeLayout
+          Size="222,42"
+          Id="Package\Sequence Container\Extraction From ClearingElo_ClearingFile\Get ClearingElo_ClearingFile"
+          TopLeft="178,69" />
+        <EdgeLayout
+          Id="Package\Sequence Container\Extraction From ClearingElo_ClearingFile.Paths[OLE DB Source Output]"
+          TopLeft="290.5,111">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,111"
+              Start="0,0"
+              End="0,103.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,103.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+      </GraphLayout>
+    </LayoutInfo>
+  </TaskHost>
+  <PipelineComponentMetadata
+    design-time-name="Package\Sequence Container\Extraction From ClearingElo_ClearingFile\Get ClearingElo_ClearingFile">
+    <Properties>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+  <PipelineComponentMetadata
+    design-time-name="Package\Sequence Container\Extraction From ClearingElo_ClearingFile\INSERT ClearingElo_ClearingFile">
+    <Properties>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+      <Property>
+        <Name>TableInfoObjectType</Name>
+        <Value
+          type="q2:string">Table</Value>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+  <TaskHost
+    design-time-name="Package\Sequence Container\Extraction From ClearingElo_FeeCollectionRegistry">
+    <LayoutInfo>
+      <GraphLayout
+        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
+        <NodeLayout
+          Size="293,42"
+          Id="Package\Sequence Container\Extraction From ClearingElo_FeeCollectionRegistry\INSERT ClearingElo_FeeCollectionRegistry"
+          TopLeft="163,235" />
+        <NodeLayout
+          Size="271,42"
+          Id="Package\Sequence Container\Extraction From ClearingElo_FeeCollectionRegistry\Get ClearingElo_FeeCollectionRegistry"
+          TopLeft="180,72" />
+        <EdgeLayout
+          Id="Package\Sequence Container\Extraction From ClearingElo_FeeCollectionRegistry.Paths[OLE DB Source Output]"
+          TopLeft="312.5,114">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,121"
+              Start="0,0"
+              End="0,113.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,113.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+      </GraphLayout>
+    </LayoutInfo>
+  </TaskHost>
+  <PipelineComponentMetadata
+    design-time-name="Package\Sequence Container\Extraction From ClearingElo_FeeCollectionRegistry\Get ClearingElo_FeeCollectionRegistry">
+    <Properties>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+  <PipelineComponentMetadata
+    design-time-name="Package\Sequence Container\Extraction From ClearingElo_FeeCollectionRegistry\INSERT ClearingElo_FeeCollectionRegistry">
+    <Properties>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+      <Property>
+        <Name>TableInfoObjectType</Name>
+        <Value
+          type="q2:string">Table</Value>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+  <TaskHost
+    design-time-name="Package\Sequence Container\Extraction From ClearingElo_FileHeaderRegistry">
+    <LayoutInfo>
+      <GraphLayout
+        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
+        <NodeLayout
+          Size="194,42"
+          Id="Package\Sequence Container\Extraction From ClearingElo_FileHeaderRegistry\Get FileHeaderRegistry"
+          TopLeft="178,69" />
+        <NodeLayout
+          Size="217,42"
+          Id="Package\Sequence Container\Extraction From ClearingElo_FileHeaderRegistry\INSERT FileHeaderRegistry"
+          TopLeft="175,225" />
+        <EdgeLayout
+          Id="Package\Sequence Container\Extraction From ClearingElo_FileHeaderRegistry.Paths[OLE DB Source Output]"
+          TopLeft="275,111">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="8.5,114"
+              Start="0,0"
+              End="8.5,106.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,53" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,53"
+                    Point2="0,57"
+                    Point3="4,57" />
+                  <mssgle:LineSegment
+                    End="4.5,57" />
+                  <mssgle:CubicBezierSegment
+                    Point1="4.5,57"
+                    Point2="8.5,57"
+                    Point3="8.5,61" />
+                  <mssgle:LineSegment
+                    End="8.5,106.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+      </GraphLayout>
+    </LayoutInfo>
+  </TaskHost>
+  <PipelineComponentMetadata
+    design-time-name="Package\Sequence Container\Extraction From ClearingElo_FileHeaderRegistry\Get FileHeaderRegistry">
+    <Properties>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+  <PipelineComponentMetadata
+    design-time-name="Package\Sequence Container\Extraction From ClearingElo_FileHeaderRegistry\INSERT FileHeaderRegistry">
+    <Properties>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+      <Property>
+        <Name>TableInfoObjectType</Name>
+        <Value
+          type="q2:string">Table</Value>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+  <TaskHost
     design-time-name="Package\Sequence Container\Extraction From ClearingElo_MainDataRegistry">
     <LayoutInfo>
       <GraphLayout
-        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
+        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
         <NodeLayout
           Size="245,42"
           Id="Package\Sequence Container\Extraction From ClearingElo_MainDataRegistry\INSERT Target MainDataRegistry"
@@ -24009,7 +24644,9 @@ WHERE
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
       </GraphLayout>
@@ -24025,6 +24662,79 @@ WHERE
   </PipelineComponentMetadata>
   <PipelineComponentMetadata
     design-time-name="Package\Sequence Container\Extraction From ClearingElo_MainDataRegistry\INSERT Target MainDataRegistry">
+    <Properties>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+      <Property>
+        <Name>TableInfoObjectType</Name>
+        <Value
+          type="q2:string">Table</Value>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+  <TaskHost
+    design-time-name="Package\Sequence Container\Extraction From ClearingElo_RejectionReasonDataRegistry">
+    <LayoutInfo>
+      <GraphLayout
+        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
+        <NodeLayout
+          Size="333,42"
+          Id="Package\Sequence Container\Extraction From ClearingElo_RejectionReasonDataRegistry\INSERT ClearingElo_RejectionReasonDataRegistry"
+          TopLeft="209,244" />
+        <NodeLayout
+          Size="310,42"
+          Id="Package\Sequence Container\Extraction From ClearingElo_RejectionReasonDataRegistry\Get ClearingElo_RejectionReasonDataRegistry"
+          TopLeft="183,73" />
+        <EdgeLayout
+          Id="Package\Sequence Container\Extraction From ClearingElo_RejectionReasonDataRegistry.Paths[OLE DB Source Output]"
+          TopLeft="338,115">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="37.5,129"
+              Start="0,0"
+              End="37.5,121.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,60.5" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,60.5"
+                    Point2="0,64.5"
+                    Point3="4,64.5" />
+                  <mssgle:LineSegment
+                    End="33.5,64.5" />
+                  <mssgle:CubicBezierSegment
+                    Point1="33.5,64.5"
+                    Point2="37.5,64.5"
+                    Point3="37.5,68.5" />
+                  <mssgle:LineSegment
+                    End="37.5,121.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+      </GraphLayout>
+    </LayoutInfo>
+  </TaskHost>
+  <PipelineComponentMetadata
+    design-time-name="Package\Sequence Container\Extraction From ClearingElo_RejectionReasonDataRegistry\Get ClearingElo_RejectionReasonDataRegistry">
+    <Properties>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+  <PipelineComponentMetadata
+    design-time-name="Package\Sequence Container\Extraction From ClearingElo_RejectionReasonDataRegistry\INSERT ClearingElo_RejectionReasonDataRegistry">
     <Properties>
       <Property>
         <Name>DataSourceViewID</Name>
@@ -24869,44 +25579,32 @@ WHERE
     </Properties>
   </PipelineComponentMetadata>
   <TaskHost
-    design-time-name="Package\Sequence Container\Extraction From ClearingElo_FileHeaderRegistry">
+    design-time-name="Package\Sequence Container\Extraction From Buy4_bo_clr_AuthorizationMessage">
     <LayoutInfo>
       <GraphLayout
         Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
         <NodeLayout
-          Size="194,42"
-          Id="Package\Sequence Container\Extraction From ClearingElo_FileHeaderRegistry\Get FileHeaderRegistry"
-          TopLeft="178,69" />
+          Size="231,42"
+          Id="Package\Sequence Container\Extraction From Buy4_bo_clr_AuthorizationMessage\GET clr_AuthorizationMessage"
+          TopLeft="357,55" />
         <NodeLayout
-          Size="217,42"
-          Id="Package\Sequence Container\Extraction From ClearingElo_FileHeaderRegistry\INSERT FileHeaderRegistry"
-          TopLeft="175,225" />
+          Size="249,42"
+          Id="Package\Sequence Container\Extraction From Buy4_bo_clr_AuthorizationMessage\INSERT clr_AuthorizationMessage"
+          TopLeft="347,183" />
         <EdgeLayout
-          Id="Package\Sequence Container\Extraction From ClearingElo_FileHeaderRegistry.Paths[OLE DB Source Output]"
-          TopLeft="275,111">
+          Id="Package\Sequence Container\Extraction From Buy4_bo_clr_AuthorizationMessage.Paths[OLE DB Source Output]"
+          TopLeft="472,97">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="8.5,114"
+              EndConnector="0,86"
               Start="0,0"
-              End="8.5,106.5">
+              End="0,78.5">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,53" />
-                  <mssgle:CubicBezierSegment
-                    Point1="0,53"
-                    Point2="0,57"
-                    Point3="4,57" />
-                  <mssgle:LineSegment
-                    End="4.5,57" />
-                  <mssgle:CubicBezierSegment
-                    Point1="4.5,57"
-                    Point2="8.5,57"
-                    Point3="8.5,61" />
-                  <mssgle:LineSegment
-                    End="8.5,106.5" />
+                    End="0,78.5" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -24919,7 +25617,7 @@ WHERE
     </LayoutInfo>
   </TaskHost>
   <PipelineComponentMetadata
-    design-time-name="Package\Sequence Container\Extraction From ClearingElo_FileHeaderRegistry\Get FileHeaderRegistry">
+    design-time-name="Package\Sequence Container\Extraction From Buy4_bo_clr_AuthorizationMessage\GET clr_AuthorizationMessage">
     <Properties>
       <Property>
         <Name>DataSourceViewID</Name>
@@ -24927,7 +25625,7 @@ WHERE
     </Properties>
   </PipelineComponentMetadata>
   <PipelineComponentMetadata
-    design-time-name="Package\Sequence Container\Extraction From ClearingElo_FileHeaderRegistry\INSERT FileHeaderRegistry">
+    design-time-name="Package\Sequence Container\Extraction From Buy4_bo_clr_AuthorizationMessage\INSERT clr_AuthorizationMessage">
     <Properties>
       <Property>
         <Name>DataSourceViewID</Name>
@@ -24936,203 +25634,6 @@ WHERE
         <Name>TableInfoObjectType</Name>
         <Value
           type="q2:string">Table</Value>
-      </Property>
-    </Properties>
-  </PipelineComponentMetadata>
-  <TaskHost
-    design-time-name="Package\Sequence Container\Extraction From ClearingElo_ClearingFile">
-    <LayoutInfo>
-      <GraphLayout
-        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
-        <NodeLayout
-          Size="222,42"
-          Id="Package\Sequence Container\Extraction From ClearingElo_ClearingFile\Get ClearingElo_ClearingFile"
-          TopLeft="178,69" />
-        <NodeLayout
-          Size="244,42"
-          Id="Package\Sequence Container\Extraction From ClearingElo_ClearingFile\INSERT ClearingElo_ClearingFile"
-          TopLeft="170,222" />
-        <EdgeLayout
-          Id="Package\Sequence Container\Extraction From ClearingElo_ClearingFile.Paths[OLE DB Source Output]"
-          TopLeft="290.5,111">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="0,111"
-              Start="0,0"
-              End="0,103.5">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,103.5" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-      </GraphLayout>
-    </LayoutInfo>
-  </TaskHost>
-  <PipelineComponentMetadata
-    design-time-name="Package\Sequence Container\Extraction From ClearingElo_ClearingFile\Get ClearingElo_ClearingFile">
-    <Properties>
-      <Property>
-        <Name>DataSourceViewID</Name>
-      </Property>
-    </Properties>
-  </PipelineComponentMetadata>
-  <PipelineComponentMetadata
-    design-time-name="Package\Sequence Container\Extraction From ClearingElo_ClearingFile\INSERT ClearingElo_ClearingFile">
-    <Properties>
-      <Property>
-        <Name>DataSourceViewID</Name>
-      </Property>
-      <Property>
-        <Name>TableInfoObjectType</Name>
-        <Value
-          type="q2:string">Table</Value>
-      </Property>
-    </Properties>
-  </PipelineComponentMetadata>
-  <TaskHost
-    design-time-name="Package\Sequence Container\Extraction From ClearingElo_FeeCollectionRegistry">
-    <LayoutInfo>
-      <GraphLayout
-        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
-        <NodeLayout
-          Size="271,42"
-          Id="Package\Sequence Container\Extraction From ClearingElo_FeeCollectionRegistry\Get ClearingElo_FeeCollectionRegistry"
-          TopLeft="180,72" />
-        <NodeLayout
-          Size="293,42"
-          Id="Package\Sequence Container\Extraction From ClearingElo_FeeCollectionRegistry\INSERT ClearingElo_FeeCollectionRegistry"
-          TopLeft="163,235" />
-        <EdgeLayout
-          Id="Package\Sequence Container\Extraction From ClearingElo_FeeCollectionRegistry.Paths[OLE DB Source Output]"
-          TopLeft="312.5,114">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="0,121"
-              Start="0,0"
-              End="0,113.5">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,113.5" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-      </GraphLayout>
-    </LayoutInfo>
-  </TaskHost>
-  <PipelineComponentMetadata
-    design-time-name="Package\Sequence Container\Extraction From ClearingElo_FeeCollectionRegistry\Get ClearingElo_FeeCollectionRegistry">
-    <Properties>
-      <Property>
-        <Name>DataSourceViewID</Name>
-      </Property>
-    </Properties>
-  </PipelineComponentMetadata>
-  <PipelineComponentMetadata
-    design-time-name="Package\Sequence Container\Extraction From ClearingElo_FeeCollectionRegistry\INSERT ClearingElo_FeeCollectionRegistry">
-    <Properties>
-      <Property>
-        <Name>DataSourceViewID</Name>
-      </Property>
-      <Property>
-        <Name>TableInfoObjectType</Name>
-        <Value
-          type="q2:string">Table</Value>
-      </Property>
-    </Properties>
-  </PipelineComponentMetadata>
-  <TaskHost
-    design-time-name="Package\Sequence Container\Extraction From ClearingElo_RejectionReasonDataRegistry">
-    <LayoutInfo>
-      <GraphLayout
-        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
-        <NodeLayout
-          Size="310,42"
-          Id="Package\Sequence Container\Extraction From ClearingElo_RejectionReasonDataRegistry\Get ClearingElo_RejectionReasonDataRegistry"
-          TopLeft="183,73" />
-        <NodeLayout
-          Size="333,42"
-          Id="Package\Sequence Container\Extraction From ClearingElo_RejectionReasonDataRegistry\INSERT ClearingElo_RejectionReasonDataRegistry"
-          TopLeft="209,244" />
-        <EdgeLayout
-          Id="Package\Sequence Container\Extraction From ClearingElo_RejectionReasonDataRegistry.Paths[OLE DB Source Output]"
-          TopLeft="338,115">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="37.5,129"
-              Start="0,0"
-              End="37.5,121.5">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,60.5" />
-                  <mssgle:CubicBezierSegment
-                    Point1="0,60.5"
-                    Point2="0,64.5"
-                    Point3="4,64.5" />
-                  <mssgle:LineSegment
-                    End="33.5,64.5" />
-                  <mssgle:CubicBezierSegment
-                    Point1="33.5,64.5"
-                    Point2="37.5,64.5"
-                    Point3="37.5,68.5" />
-                  <mssgle:LineSegment
-                    End="37.5,121.5" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-      </GraphLayout>
-    </LayoutInfo>
-  </TaskHost>
-  <PipelineComponentMetadata
-    design-time-name="Package\Sequence Container\Extraction From ClearingElo_RejectionReasonDataRegistry\Get ClearingElo_RejectionReasonDataRegistry">
-    <Properties>
-      <Property>
-        <Name>DataSourceViewID</Name>
-      </Property>
-    </Properties>
-  </PipelineComponentMetadata>
-  <PipelineComponentMetadata
-    design-time-name="Package\Sequence Container\Extraction From ClearingElo_RejectionReasonDataRegistry\INSERT ClearingElo_RejectionReasonDataRegistry">
-    <Properties>
-      <Property>
-        <Name>DataSourceViewID</Name>
-      </Property>
-      <Property>
-        <Name>TableInfoObjectType</Name>
-        <Value
-          type="q2:string">Table</Value>
-      </Property>
-    </Properties>
-  </PipelineComponentMetadata>
-  <PipelineComponentMetadata
-    design-time-name="Package\Get Ids for Chargeback\Insert into temp">
-    <Properties>
-      <Property>
-        <Name>DataSourceViewID</Name>
       </Property>
     </Properties>
   </PipelineComponentMetadata>
